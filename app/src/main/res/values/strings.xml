@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ER</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="main_fragment_text">首页</string>
+    <string name="test_fragment_text">测试</string>
+    <string name="user_center_fragment_text">个人中心</string>
+    <string name="learn_fragment_text">学习</string>
+    <string name="learn_fragment_title">学习库</string>
+    <string name="title_back">返回</string>
+    <string name="article_look">文章欣赏</string>
+    <string name="dl_read">段落阅读</string>
+    <string name="my_mj">名言名句</string>
+</resources>

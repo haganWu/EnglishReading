@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical"
+              android:padding="18dp">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/tv_problem"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:padding="8dp"
+                android:textSize="@dimen/text_size_normal"
+                android:text="文章欣赏"/>
+
+            <TextView
+                android:id="@+id/tv_to_read"
+                android:padding="8dp"
+                android:text="朗读"
+                android:textSize="14sp"
+                android:textColor="@drawable/selector_tab_text_color"
+                android:gravity="center"
+                android:layout_gravity="right"
+                android:background="@android:color/transparent"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+
+            <TextView
+                android:id="@+id/tv_english_content"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:textSize="@dimen/text_size_normal"
+                android:padding="8dp"
+                android:text="文章欣赏"/>
+        </LinearLayout>
+    </ScrollView>
+
+
+
+</LinearLayout>
