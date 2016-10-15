@@ -12,6 +12,7 @@
         android:layout_height="wrap_content"
         android:gravity="center"
         android:textSize="@dimen/text_size_big"
+        android:textColor="@android:color/black"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="36dp"
         android:text="@string/learn_fragment_title"/>

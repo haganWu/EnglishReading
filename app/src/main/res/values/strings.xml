@@ -11,4 +11,11 @@
     <string name="article_look">文章欣赏</string>
     <string name="dl_read">段落阅读</string>
     <string name="my_mj">名言名句</string>
+    <string name="user_center_my_log">M1 我的日志</string>
+    <string name="user_center_study_cj">M2 学习成绩</string>
+    <string name="user_center_task_center">M3 任务中心</string>
+    <string name="section_a">Section A 选词填空</string>
+    <string name="section_b">Section B 阅读理解</string>
+    <string name="please_hope">(敬请期待...)</string>
+    <string name="please_hope2">敬请期待...</string>
 </resources>

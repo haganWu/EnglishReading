@@ -1,115 +1,472 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="problem">
-        <item>问题：近几年全球气温连续上升，那么今年是否依然如此呢？</item>
-        <item>问题：凭借独特口感和解乏功能，咖啡成了很多人生活中不可或缺的单品，有没有便于携带的咖啡块呢？</item>
-        <item>问题：你对厦门的鼓浪屿了解有多少呢？</item>
-        <item>问题：在生活中，我们该如何解决金钱和欲望的平衡问题呢？</item>
-        <item>问题：在我们成长过程中，我们面对最爱的东西时，我们将会如何取舍呢？</item>
-        <item>问题：在学习中，我们常常提到要在玩中学习，也有游戏化学习，那么工作能游戏化吗？</item>
-        <item>问题：关于就业与创业一直是社会的热点话题，在校大学生对此也比较关注，那么在校大学生该如何选择呢？</item>
-        <item>问题：孤独也许是人类与生俱来的一种感觉，人为什么会有这种感觉呢？</item>
+
+    <!-- **************************** 文章欣赏 start ***************************** -->
+
+    <string-array name="wzyd_title">
+
+        <item>Love</item>
+        <item>The First Snow</item>
+        <item>Try to Remember the Good Things</item>
+        <item>True Nobility</item>
+        <item>Dream—A Passion within You </item>
+        <item>Just for Today</item>
+        <item>Our Habits Are Lessons in Disguise</item>
+        <item>Be Happy</item>
+        <item>The Happy Door</item>
+        <item>If</item>
+        <item>Youth</item>
+        <item>We’re Just Beginning</item>
+        <item>Think Positive Thoughts Every Day</item>
+        <item>On Motes and Beams （微尘与栋梁）</item>
+        <item>Work and Pleasure</item>
+        <item>If I Were a Boy Again</item>
+        <item>The Love of Beauty</item>
+        <item>An October Sunrise</item>
+        <item>The Pleasure of Reading</item>
+        <item>Three Days to See (Excerpts)</item>
+
     </string-array>
 
-    <string-array name="english_content">
-        <item>    The world is on pace to set another high temperature benchmark, with 2016 becoming the third year in a row of record heat.
-NASA scientists announced Tuesday that global temperatures so far this year were much higher than in the first half of 2015.
-Gavin Schmidt, director of NASA’s Goddard Institute for Space Studies, said that while the first six months of 2015 made it the hottest half-year ever recorded, “2016 really has blown that out of the water.” He said calculations showed there was a 99 percent probability that the full year would be hotter than 2015.
-Schmidt said the world was now “dancing” with the temperature targets set last year in the Paris climate treaty for nations to limit climate change.
-He attributed part of the rise in temperatures this year to El Niño, in which warming waters in the equatorial Pacific Ocean pump a lot of heat into the atmosphere. El Niño is now ending and water temperatures in the Pacific are dropping, which should lead in 2017 to lower but still historically high temperatures.
-Average temperatures for the first six months of this year were about 1.3 degrees Celsius, or 2.3 degrees Fahrenheit, above the average in 1880, when global record-keeping began, and “quite close” to 1.5 degrees Celsius above preindustrial levels, Schmidt said in a conference call with other NASA scientists.
-The warming in the first half of this year extended across all parts of the planet except for most of Antarctica, Schmidt said. Warming was especially strong in the Arctic, where it had an impact on sea ice coverage.
-Walt Meier, a scientist at NASA’s Goddard Space Flight Center, said that the geographical extent of the Arctic ice so far this year was the lowest for any half-year since satellite record-keeping began in 1979, largely because warm temperatures caused melting to begin as much as two months earlier than usual.
-Warming of 1.5 degrees Celsius has special significance because at the Paris climate treaty in December the world agreed to aim to limit the increase in average global temperatures to that amount above preindustrial levels.
-Schmidt said that although El Niño contributed to some of the increase in temperatures from last year, almost all of the increase since the 1960s was because of human-caused emissions of carbon dioxide and other greenhouse gases.
-        </item>
-        <item>    San Francisco entrepreneurs Geoffrey Woo and Michael Brandt have come up with a revolutionary way for coffee lovers to get their early morning caffeine fix – chewable caffeine cubes. Each 35-calorie bite-sized ‘Go Cube’ is the equivalent of drinking roughly half a cup of coffee. So if you’re running late with no time to brew a fresh cuppa joe, just pop two cubes and you’re good to go.
-Go Cubes are 100 percent vegan, made of a special blend of compounds that improve memory and alertness. With a texture similar to gum drops, each cube contains 50 mg of caffeine, 10 mg of Vitamin B6, and 100 mg of L-Theanine, an amino acid found in green tea. B6 helps aid cognitive function, while theanine helps reduce the anxiety associated with a pure caffeine buzz. They also contain about six grams of sugar per cube, and come in three different flavors – pure drip, latte, and mocha.
- Brandt and Woo used crowdfunding to raise nearly $40,000, and are now all set to release Go Cubes internationally – priced at $20.70 for six packs of four. That works out to about $1.73 per cup of coffee, which is cheaper than what you get at most coffee shops.
- According to their Indiegogo page, “The amount, concentration, and ratio of each compound in Go Cubes were significantly drawn from double-blind, peer-reviewed journal studies that statistically demonstrate the compound’s efficacy and safety.” They have used a theanine-caffeine ratio of 2:1, which “significantly improves the cognitive performance and alertness, beyond just each compound standalone.”
-“Our goal with Go Cubes is to combine what people love about coffee to make a cognitive-enhancing product that’s delicious, shareable, convenient, and affordable,” they revealed. “We take pride in quality products and a brand that is both smart and down-to-earth.”
-As fantastic as this sounds, you can’t really shake off the feeling that Go Cubes is just a fun way of marketing brain-enhancing drugs. But that’s the perception Brandt and Woo are trying hard to fight. They want to make nootropics – chemical supplements that make people smarter and more alert – user-friendly, so that’s why they’ve chosen to package them as candy instead of pills.
-But they are quick to add that Go Cubes are not a substitute for hard work, and should be used only to enhance potential and get into a productive state of mind. “In principle, I can reach that state on my own,” Brandt said. “When I first started using nootropics, what I thought was really cool is that they can help me reliably get into that state. I can take full advantage of that time every time.”
-        </item>
-        <item>    Gulangyu Island is located just southwest of Xiamen City. Visitors can reach it by steamship from Xiamen City in about 5 minutes. Gulangyu Island is renowned for its delicate natural beauty，its ancient relics，and its vanes architecture. The island is on China\'s list of National Scenic Spots，one of the 35 key National Scenic Spots and also ranks at the top of the t0 most-scenic areas in Fujian Province.
-During the Ming Dynasty，the island was called "Yuanshazhou Island". It got its present name from the huge reef surrounding it. When the tide comes in, the waves pound the reef and it sounds like the beating of a drum. Thus the island came to be named "Gulangyu".Gu in Chinese means "drum"，and Lang "waves".
-During the later Ming Dynasty，the troops of national hero Zheng Cheng gong were stationed here. After the Opium War in 1842，13 countries including Great Britain，France，America，Germany and Japan established consulates，churches，hospitals. banks and schools here，turning the island into a common concession. In 1942，Japan occupied the island until the end of the War of Resistance against Japan
-Gulangyu Island has about 20000 permanent residents，all of whom enjoy a comfortable，relaxing life. Only electric-powered vehicles are permitted on the island，so the environment is free from the noise and pollution of combustion engines, Breathing the clean air. appreciating the ever-present green trees and lovely flowers ，anyone here can feel like they are in heaven. With classical and romantic European-style architecture, the island truly deserves to be called the "Architecture Museum". It is also known as the “Cradle of Musicians" and “Island of Music" because of its reputation for music appreciation.
-The Island Ring Road, which circles the island, allows you to enjoy an me sights of this small but charming island.
-At the foot of Sunlight Rock stands the Memorial Hall of Zheng Cheng gong，built in honor of the hero\'s feats which include expelling the Dutch colonists and reoccupying Taiwan. Wandering up the steep rock path, visitors will see many profound inscriptions left by poets， the oldest of which dates back to over 400 years. This is the main cultural sight on the hill.
-Continuing on，you will see toe preserved training grounds of Zheng Cheng gong\'s troops. Near the field is a huge rock bridging two cliffs，forming a natural entrance to a cave. This is called “Old Summer Cave"(Gu Bi shu Dong)where you can feel a pleasant cool breeze. It\'s the perfect viewing spot to appreciate the scenery of Gulangyu Island. A fantastic panorama of Xiamen City，including Nanputuo Temple. Xiamen University, Hulishan Battery, etc is within view.
-        </item>
-        <item>    Money can’t buy happiness, right? Well, not true. According to a recent article in The Wall Street Journal, over the past few years, new research has given us a much deeper understanding of the relationship between what we earn and how we feel. The results may seem a bit obvious: Yes, people with higher incomes are, broadly speaking, happier than those who struggle to get by. But the research also shows you have to spend strategically if you expect those bank notes to put a smile on your face. Here are some ways to better spend your money:
-Buy experiences, not stuff.
- In a recently published study, Ryan Howell, associate professor of psychology at San Francisco State University in the US, found that when people don’t have much money to spare, they tend to stick to material goods. "People think that experiences are only going to provide temporary happiness," he told The Wall Street Journal in an interview. "… but they actually provide both more happiness and more lasting value."
-Buy lots of little things, rather than one big thing.
-No matter how much money you spend on something and how special that product is, you will get used to having it over time and it will become just another object. People adapt to having new stuff, and anything that disrupts that adaptation is likely to prolong happiness, says an Atlantic article. Buying small things can give us frequent small pleasures that are different each time they occur, as they forestall adaptation.
-Buy what you like.
-No keeping up with the Joneses. "There are a lot of reasons someone might buy something … but if the reason is to maximize happiness, the best thing for that person to do is purchase a life experience that is in line with their personality," Howell tells Forbes. Howell recently co-authored a study finding that when people spend money just to project a certain image, it doesn’t bring happiness.
-Be sure to buy time, too.
-It’s also important to consider how what you’re buying will affect how you spend your time. For example, that big house in the suburbs may seem like a good idea, but according to The Wall Street Journal, a 2004 study by researchers from University of Zurich in Switzerland found that people with longer commutes reported lower overall life satisfaction, all other things being equal.
-Try giving it away. Elizabeth Dunn, associate professor of psychology at the University of British Columbia in Canada, found that in countries as diverse as Canada, South Africa and Uganda, giving away money consistently made people happier. This was even true when people were giving away even when they themselves were relatively poor.
-        </item>
-        <item>    Jenny was a bright-eyed, pretty five-year-old girl.
-One day when she and her mother were checking out at the grocery store, Jenny saw a plastic pearl necklace priced at $2.50. How she wanted that necklace, and when she asked her mother if she would buy it for her, her mother said, “Well, it is a pretty necklace, but it costs an awful lot of money. I\'ll tell you what. I\'ll buy you the necklace, and when we get home we can make up a list of chores that you can do to pay for the necklace.
-And don’t forget that for your birthday Grandma just might give you a whole dollar bill, too. Okay?” Jenny agreed, and her mother bought the pearl necklace for her.
-Jenny worked on her chores very hard every day, and sure enough, her grandma gave her a brand-new dollar bill for her birthday. Soon Jenny had paid off the pearls. How Jenny loved those pearls. She wore them everywhere to kindergarten, bed and when she went out with her mother to run errands.
-The only time she didn’t wear them was in the shower. Her mother had told her that they would turn her neck green!
-Jenny had a very loving daddy. When Jenny went to bed, he would get up from his favorite chair every night and read Jenny her favorite story.
-One night when he finished the story, he said, “Jenny, do you love me? ”
-“Oh yes, Daddy, you know I love you, ” the little girl said.
-“Well, then, give me your pearls. ”
-“Oh! Daddy, not my pearls!” Jenny said. “But you can have Rosy, my favorite doll. Remember her? You gave her to me last year for my birthday. And you can have her tea party outfit , too. Okay? ”
-“Oh no, darling, that\'s okay.” Her father brushed her cheek with a kiss. “Good night, little one. ”
-A week later, her father once again asked Jenny after her story, “Do you love me? ”
-“Oh yes, Daddy, you know I love you. ”
-“Well, then, give me your pearls. ”
-“Oh, Daddy, not my pearls! But you can have Ribbons, my toy horse. Do you remember her? She’s my favorite. Her hair is so soft, and you can play with it and braid it and everything. You can have Ribbons if you want her, Daddy,” the little girl said to her father.
-“No, that\'s okay,” her father said and brushed her cheek again with a kiss. “God bless you, little one. Sweet dreams. ”
-Several days later, when Jenny’s father came in to read her a story, Jenny was sitting on her bed and her lip was trembling .“ Here, Daddy, ” she said, and held out her hand. She opened it and her beloved pearl necklace was inside. She let it slip into her father’s hand.
-With one hand her father held the plastic pearls and the other he pulled out of his pocket a blue velvet box. Inside of the box were real, genuine , beautiful pearls. He had had them all along. He was waiting for Jenny to give up the cheap stuff so he could give her the real thing.
-        </item>
-        <item>    Angry Birds, Call of Duty or online bingo? Whatever your preference, games have become part of many people’s leisure, so it was only a matter of time before someone found a way to transfer it to the world of work. “Gamification is when video games and business have a baby,” says Mario Herger, founder of consultancy Enterprise Gamification. The common definition is “using game design elements and principles in a non-game context”.
-Gaining in popularity over the past few years, the point of gamification is to make mundane, difficult or time- consuming tasks more fun so we do them more effectively. It works, Mr Herger says, by tapping into our natural curiosity and sociability, desire for mastery and having fun.
-Some games also use the “flow” principle, where a game’s difficulty is carefully matched to skill: initially, it is kept simple but as soon as you figure out how the game works, the difficulty notches up. Importantly, the immediate and constant feedback that online games give, whether cheering birds — as in Angry Birds — or the allocation of points, is being incorporated into the work version.
-“Companies are now using systems such as BreatheHR to encourage faster feedback in appraisal systems and praise from co-workers to motivate their employees,” says Pete Jenkins, founder of consultancy Gamification+.
-But gamification remains a niche tool mostly used in recruitment, learning and development, and sales.
-Call centres have taken up systems such as that by Playvox, which helps companies develop gaming strategies that use leader boards, levels and performance metrics to turn a boring job into a more enjoyable competition. Seriosity has created a game to deter people from sending too many emails. Deloitte, the professional services firm, developed its own app called Who What Where, in which consultants share information about clients and projects to improve collaboration.
-Games can never apply to every aspect of work. But for measurable goals, gamified personal productivity apps can be useful. Mr Jenkins uses Trello, a task management app: “I particularly like the progress bar it shows as you tick elements of a task completed.” It is also a good example of gamification not having to look like a game to be effective, he says.
-Other popular apps include Habit RPG and Todoist Karma, where good habits are rewarded with points, or Task Hammer and Epic Win, which also include role play.
-Although gamification has become a buzzword among HR directors, the truth is that take-up is limited. In some cases, that was because of the temptation by companies to tack on poorly designed gamification apps just to look the part. In such cases, games fail because the incentives they offer workers are meaningless, their goals are too ambitious or they are becoming boring and a distraction.
-After all, most of us realise we are not in the office to have fun but to get on with our real work with real financial incentives.
-        </item>
-        <item>    It\'s little more than a decade since Mark Zuckerberg dropped out of Harvard at the age of 19 to launch Facebook. The social network has made him the fourth-richest man in America and a hero to any aspiring college entrepreneur.
-Of course Zuckerberg was already something of a prodigy when he started his global empire. But for those with more modest abilities, there are now thousands of schools across the country offering courses in entrepreneurship.
-The days seem long gone when students sought skills that would secure them a job for life working for somebody else.
-"There\'s been a massive shift," says Derrick Maggard, director of the Apex Systems Center for Innovation and Entrepreneurship at Virginia Tech. "Most of these students grew up during the great recession and saw their parents, maybe their grandparents or an aunt or uncle struggle and get laid off by large companies. They\'re almost fearful to go into the corporate world. They say, I don\'t want that to happen to me - I want to do my own thing and control my destiny."
-He says the most important characteristics for a successful entrepreneur are the ability to handle ambiguity and the skills to bring an idea to fruition.
-Mark Zuckerberg is now worth more than $52bn, adding $18bn to his fortune in the last year alone according to Forbes. And while he represents a tiny percentage of entrepreneurs, many other successful companies have been started in a college dorm room.
-Dyn was co-founded in 2001 by Jeremy Hitchcock, studying at Worcester Polytechnic Institute, Massachusetts. He developed a way to optimise the flow of data between online companies and their users to improve internet performance. Dyn, based in Manchester, New Hampshire, now employs 400 people and boasts clients such as Twitter and Etsy.
-"I\'d give the same advice to any university student," says Hitchcock. "Go start a company or be part of something where you\'re creating or building, because you\'re at a time in life when you have that freedom of exploration. And do something that\'s crazy, that\'s non-traditional."
-"If you are a student entrepreneur and you have an idea with a time limit on getting it to market, I would encourage you to take a leave of absence and give it a go. But those are rare," Maggard says. "Work on it while you\'re in school. Develop the idea and continue to do customer research. Then when the time is right and you are ready to move forward, go for it."
-29-year-old Mehr Pastakia already had a degree in horticulture but started her rooftop garden company while studying at Johns Hopkins Carey Business School, Baltimore.
-"I just wanted to learn what everybody else seemed to know about business," she says. "I had a few really great classes and really great classmates that made it totally worth it for me."
-One of the most important lessons was how to manage conflict and develop self-knowledge as a leader, she says. She was also able to meet a potential investor who focuses on backing women-owned companies.
-"Female entrepreneurs are on the rise," says Maggard. "But one challenge they do face is equal access to capital. Venture capitalists are known to invest less in female led start-ups."
-"Research shows that women are more risk averse than men, and this can be paraded around as unfavourable," says Kathy Korman Frey, entrepreneur in residence at George Washington University and founder of Hot Mommas Project, the world\'s largest online library of female entrepreneur case studies.
-But, she says, attitudes towards women entrepreneurs are changing. "If I know my investment is safer with a person who is going to consider all the options and then make a move, that\'s a (good) investment strategy."
-        </item>
-        <item>    Nobody likes feeling lonely, and some recent research suggests that the ache of isolation isn\'t only a psychological problem; unwanted solitude impacts physical health, too. Loneliness increases a person\'s risk of mortality by 26 percent, an effect comparable to the health risks posed by obesity, according to a study published this spring.
-And because of this new evidence of the serious ramifications of loneliness, some researchers are investigating what it is, exactly, that makes lonely people stay lonely. In particular, could some behavior be at the root of their isolation?
-In a paper recently published in the journal Personality and Social Psychology Bulletin, Franklin &amp; Marshall College professor Megan L. Knowles led four experiments that demonstrated lonely people\'s tendency to choke when under social pressure. In one, Knowles and her team tested the social skills of 86 undergraduates, showing them 24 faces on a computer screen and asking them to name the basic human emotion each face was displaying: anger, fear, happiness, or sadness. She told some of the students that she was testing their social skills, and that people who failed at this task tended to have difficulty forming and maintaining friendships. But she framed the test differently for the rest of them, describing it as a this-is-all-theoretical kind of exercise.
-Before they started any of that, though, all the students completed surveys that measured how lonely they were. In the end, the lonelier students did worse than the non-lonely students on the emotion-reading task — but only when they were told they were being tested on their social skills. When the lonely were told they were just taking a general knowledge test, they performed better than the non-lonely. Previous research echoes these new results: Past studies have suggested, for example, that the lonelier people are better at accurately reading facial expressions and decoding tone of voice. As the theory goes, lonely people may be paying closer attention to emotional cues precisely because of their ache to belong somewhere and form interpersonal connections, which results in technically superior social skills.
-But like a baseball pitcher with a mean case of the yips or a nervous test-taker sitting down for an exam, being hyper focused on not screwing up can lead to over-thinking and second-guessing, which, of course, can end up causing the very screw up the person was so bent on avoiding. It\'s largely a matter of reducing that performance anxiety, in other words, and Knowles and her colleagues did manage to find one way to do this for their lonely study participants, though, admittedly, it is maybe not exactly applicable outside of a lab. The researchers gave their volunteers an energy-drink-like beverage and told them that any jitters they felt were owing to the caffeine they’d just consumed. (In actuality, the beverage contained no caffeine, but no matter — the study participants believed that it did.) They then did the emotion-reading test, just like in the first experiment. Compared to scores from that first experiment, there was no discernible difference in scores for the non-lonely, but the researchers did see improvement among the lonely participants — even when the task had been framed as a social-skills test.
-It may be difficult to trick yourself into believing your nerves are from caffeine and not the fact that you really, really, really want to make a good impression in some social setting, but there are other ways to change your own thinking about anxiety. One of my recent favorites is from Harvard Business School\'s Alison Wood Brooks, who found that when she had people reframe their nerves as excitement, they subsequently performed better on some mildly terrifying task, like singing in public. At the very least, this current research presents a fairly new way to think about lonely people. It\'s not that they need to brush up on the basics of social skills — that they\'ve likely already got down. Instead, lonely people may need to focus more on getting out of their own heads, so they can actually use the skills they\'ve got to form friendships and begin to find a way out of their isolation.
-        </item>
+
+    <string-array name="wzyd_anthor">
+
+        <item> By Sir Thomas Browne </item>
+        <item>By Henry Wadsworth Longfellow</item>
+        <item>      </item>
+        <item>By Ernest Hemingway</item>
+        <item>      </item>
+        <item>By Dale Carnegie</item>
+        <item>      </item>
+        <item>By Lioyd Morris</item>
+        <item>      </item>
+        <item>By Rudyard Kipling</item>
+        <item>      </item>
+        <item>      </item>
+        <item>      </item>
+        <item>      </item>
+        <item>      </item>
+        <item>      </item>
+        <item>      </item>
+        <item>      </item>
+        <item>      </item>
+        <item>      </item>
+
     </string-array>
 
+
+    <string-array name="wzyd_english_article">
+        <item>
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;I love you not because of who you are, but because of who I am when I am with you.\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;No man or woman is worth your tears, and the one who is, won’t make you cry.\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;The worst way to miss someone is to be sitting right beside them knowing you can’t have them.\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Never frown, even when you are sad, because you never know who is falling in love with your smile.\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;To the world you may be one person, but to one person you may be the world.\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Don’t waste your time on a man/woman, who isn’t willing to waste their time on you.\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Just because someone doesn’t love you the way you want them to, doesn’t mean they don’t love you with all they have.\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Don’t try too hard, the best things come when you least expect them to.\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Maybe God wants us to meet a few wrong people before meeting the right one, so that when we finally meet the person, we will know how to be grateful.\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Don’t cry because it is over; smile because it happened.\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Life is a pure flame, and we live by an invisible sun within us.\n
+        </item>
+
+        <item>
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;The first snow came. How beautiful it was, falling so silently all day long, all night long, on the mountains, on the meadows, on the roofs of the living, on the graves of the dead!\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;All white save the river, that marked its course by a winding black line across the landscape; and the leafless trees, that against the leaden sky now revealed more fully the wonderful beauty and intricacies of their branches.\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;What silence, too, came with the snow, and what seclusion! Every sound was muffled, every noise changed to something soft and musical.\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;No more tramping hoofs, no more rattling wheels! Only the chiming of sleigh-bells, beating as swift and merrily as the hearts of children.\n
+        </item>
+
+        <item>
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;When times become difficult (and you know they sometimes will), remember a moment in your life that was filled with joy and happiness. Remember how it made you feel, and you will have the strength you need to get through any trial.\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;When life throws you one more obstacle than you think you can handle, remember something you achieved through perseverance and by struggling to the end. In doing so, you\'ll find you have the ability to overcome each obstacle brought your way.\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;When you find yourself drained and depleted of energy, remember to find a place of sanctuary and rest.\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Take the necessary time in your own life to dream your dreams and renew your energy, so you\'ll be ready to face each new day.\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;When you feel tension building, find something fun to do. You\'ll find that the stress you feel will dissipate and your thoughts will become clearer.\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;When you\'re faced with so many negative and draining situations, realize how minuscule problems will seem when you view your life as a whole——and remember the positive things.\n
+        </item>
+
+        <item>
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;In a calm sea every man is a pilot. But all sunshine without shade, all pleasure without pain, is not life at all.\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Take the lot of the happiest——it is a tangled yarn. Bereavements and blessings, one following another, make us sad and blessed by turns. Even death itself makes life more loving. Men come closest to their true selves in the sober moments of life, under the shadows of sorrow and loss.\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;In the affairs of life or of business, it is not intellect that tells so much as character, not brains so much as heart, not genius so much as self-control, patience, and discipline, regulated by judgment.\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;I have always believed that the man who has begun to live more seriously within begins to live more simply without. In an age of extravagance and waste, I wish I could show to the world how few the real wants of humanity are.\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;To regret one\'s errors to the point of not repeating them is true repentance. There is nothing noble in being superior to some other man. The true nobility is in being superior to your previous self.\n
+        </item>
+
+        <item>
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;What kinds of dreams will you turn to reality in your life?
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Everyone - every person in this world has a Dream: a passion, a vision in their life that pulls them and urges them to move forward in life. You, my friend have this vision within you, it "whispers" to you occasionally, but in some cases it cries out. It cries out to be listened to and acted upon because this vision comes from your soul.\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Within this "Inner Vision" there lies the magic of living your life with passion, fulfillment and purpose. This means being true to who you really are - and living your life on purpose with all the passion and energy you are capable of living.\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;When you live from your inner passions - you\'ll never have to seek approval from others - you\'ll "chart your own course" and be the master of your own destiny. More importantly, you\'ll feel whole, connected and inspired.\n
+        </item>
+
+        <item>
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Just for today I will try to live through this day only and not tackle my whole life problem at once. I can do something for twelve hours that would appall me if I had to keep it up for a lifetime.\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Just for today I will be happy. This assumes to be true what Abraham Lincoln said，that “Most folks are as happy as they make up their minds to be.”\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Just for today I will adjust myself to what is, and not try to adjust everything to my own desires. I will take my “luck” as it comes. Just for today I will try to strengthen my mind. I will study. I will learn something useful. I will not be a mental loafer. I will read something that requires effort, thought and concentration.\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Just for today I will exercise my soul in three ways. I will do somebody a good turn and not get found out: If anybody knows of it, it will not count. I will do at least two things I don\'t want to do—just for exercise. I will not show anyone that my feelings are hurt: they may be hurt, but today I will not show it.\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Just for today I will be agreeable. I will look as well as I can, dress becomingly, talk low, act courteously, criticize not one bit，and try not to improve or regulate anybody but myself.\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Just for today I will have a program, I may not follow it exactly, but I will have it. I will save myself from two pests: hurry and indecision.\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Just for today I will have a quiet half hour all by myself and relax. During this half hour, sometime, I will try to get a better perspective of my life.\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Just for today I will be unafraid. Especially I will not be afraid to enjoy what is beautiful，and to believe that as I give to the world, so the world will give to me.\n
+        </item>
+
+        <item>
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;We always have something to be thankful for. The air we breathe is a good start. Our capacity to think and relate to one another is a gift to appreciate. Even the habits we have, good or bad, exist for positive reasons. We are meant to learn from them. Without contrast, we have no context. And without context, content doesn’t really matter. What is up if we do not understand down? What is good if we do not know bad? Our habits are lessons in disguise. They challenge us to grow, to become more aware, to stop and smell the roses.\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;When we give thanks and appreciate, we immediately transcend all negative energy and emotion holding us back. Try this: the next time you get a bill in the mail, say “thank you”. Feel good that you have a mailbox, and an address. Do not fear the bill, resist the bill, get upset about the bill or worry about the bill. Simply appreciate it. Now do the same thing the next time you are delayed on a flight, rejected for a job opening, or criticized by someone who doesn\'t know any better. Recognize that the world is full of stimuli and WE have the power to choose how we will respond.\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Pay close attention to your repeated tendencies and habits and remind yourself to pause before hitting the replay (autopilot) button. Do not fan the fires of discontent with hostility and resistance.\n
+        </item>
+
+        <item>
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;“The days that make us happy make us wise.”----John Masefield
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;When I first read this line by England’s Poet Laureate, it startled me. What did Masefield mean? Without thinking about it much, I had always assumed that the opposite was true. But his sober assurance was arresting. I could not forget it. \n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Finally, I seemed to grasp his meaning and realized that here was a profound observation. The wisdom that happiness makes possible lies in clear perception, not fogged by anxiety nor dimmed by despair and boredom, and without the blind spots caused by fear. \n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Active happiness——not mere satisfaction or contentment ---often comes suddenly, like an April shower or the unfolding of a bud. Then you discover what kind of wisdom has accompanied it. The grass is greener; birds’ songs are sweeter; the shortcomings of your friends are more understandable and more forgivable. Happiness is like a pair of eyeglasses correcting your spiritual vision. \n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Nor are the insights of happiness limited to what is near around you. Unhappy, with your thoughts turned in upon your emotional woes, your vision is cut short as though by a wall. Happy, the wall crumbles. \n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;The long vista is there for the seeing. The ground at your feet, the world around you——people, thoughts, emotions and pressures——are now fitted into the larger scene. Everything assumes a fairer proportion, and here is the beginning of wisdom. \n
+        </item>
+
+        <item>
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Happiness is like a pebble dropped into a pool to set in motion an ever-widening circle of ripples. As Stevenson has said, being happy is a duty.\n 
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;There is no exact definition of the word happiness. Happy people are happy for all sorts of reasons. The key is not wealth or physical well-being, since we find beggars, invalids and so-called failures, who are extremely happy. \n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Being happy is a sort of unexpected dividend. But staying happy is an accomplishment, a triumph of soul and character. It is not selfish to strive for it. It is, indeed, a duty to ourselves and others.\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Being unhappy is like an infectious disease. It causes people to shrink away from the sufferer. He soon finds himself alone, miserable and embittered. There is, however, a cure so simple as to seem, at first glance, ridiculous; if you don’t feel happy, pretend to be! \n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;It works. Before long you will find that instead of repelling people, you attract them. You discover how deeply rewarding it is to be the center of wider and wider circles of good will. \n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Then the make-believe becomes a reality. You possess the secret of peace of mind, and can forget yourself in being of service to others. \n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Being happy, once it is realized as a duty and established as a habit, opens doors into unimaginable gardens thronged with grateful friends. \n
+        </item>
+
+        <item>
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;If you can keep your head when all about you\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Are losing theirs and blaming it on you,\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;If you can trust yourself when all men doubt you,\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;But make allowance for their doubting too;\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;If you can wait and not be tired by waiting,\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Or being lied about, don\'t deal in lies,\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Or being hated, don\'t give way to hating,\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;And yet don\'t look too good, nor talk too wise.\n
+
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;If you can dream——and not make dreams your master;\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;If you can think——and not make thoughts your aim;\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;If you can meet with Triumph and Disaster\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;And treat those two impostors just the same;\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;If you can bear to hear the truth you\'ve spoken\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Twisted by knaves to make a trap for fools,\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Or watch the things you gave your life to broken,\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;And stoop and build \'em up with worn out tools.\n
+
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;If you can make one heap of all your winnings\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;And risk it on one turn of pitch-and-toss,\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;And lose, and start again at your beginnings\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;And never breathe a word about your loss;\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;If you can force your heart and nerve and sinew\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;To serve your turn long after they are gone,\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;And so hold on when there is nothing in you\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Except the Will which says to them, ‘Hold on!’\n
+
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;f you can talk with crowds and keep your virtue,\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Or walk with Kings——nor lose the common touch，\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;If neither foes nor loving friends can hurt you，\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;If all men count with you, but none too much;\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;If you can fill the unforgiving minute\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;With sixty seconds\' worth of distance run，\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Yours is the Earth and everything that\'s in it,\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;And——which is more——you\'ll be a Man, my son!\n
+        </item>
+
+        <item>
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Youth is not a time of life; it is a state of mind; it is not a matter of rosy cheeks, red lips and supple knees; it is a matter of the will, a quality of the imagination, a vigor of the emotions; it is the freshness of the deep springs of life.\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Youth means a temperamental predominance of courage over timidity, of the appetite for adventure over the love of ease. This often exists in a man of 60 more than a boy of 20. Nobody grows old merely by a number of years. We grow old by deserting our ideals.\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Years may wrinkle the skin, but to give up enthusiasm wrinkles the soul. Worry, fear, self-distrust bows the heart and turns the spirit back to dust.\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Whether 60 or 16, there is in every human being’s heart the lure of wonders, the unfailing appetite for what’s next and the joy of the game of living. In the center of your heart and my heart, there is a wireless station; so long as it receives messages of beauty, hope, courage and power from man and from the infinite, so long as you are young.\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;When your aerials are down, and your spirit is covered with snows of cynicism and the ice of pessimism, then you’ve grown old, even at 20; but as long as your aerials are up, to catch waves of optimism, there’s hope you may die young at 80.\n
+        </item>
+
+        <item>
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;“We are reading the first verse of the first chapter of a book whose passages are infinite…”\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;I do not know who wrote those words, but I have always liked them as a reminder that the future can be anything we want to make it. We can take the mysterious, hazy future and carve out of it anything that we can imagine, just like a sculptor carves a statue from a shapeless stone.\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;We are all in the position of the farmer. If we plant a good seed, we reap a good harvest. If our seed is poor and full of weeds, we reap a useless crop. If we plant nothing at all, we harvest nothing at all.\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;I want the future to be better than the past. I don’t want it contaminated by the mistakes and errors with which history is filled. We should all be concerned about the future because that is where we will spend the reminder of our lives.\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;The past is gone and static. Nothing we can do will change it. The future is before us and dynamic. Everything we do will affect it. Each day will bring with it new frontiers, in our homes and in our business, if we will only recognize them. We are just at the beginning of the progress in every field of human endeavor.\n
+        </item>
+
+        <item>
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;If your life feels like it is lacking the power that you want and the motivation that you need, sometimes all you have to do is shift your point of view.\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;By training your thoughts to concentrate on the bright side of things, you are more likely to have the incentive to follow through on your goals. You are less likely to be held back by negative ideas that might limit your performance.\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Your life can be enhanced, and your happiness enriched, when you choose to change your perspective. Don\'t leave your future to chance, or wait for things to get better mysteriously on their own. You must go in the direction of your hopes and aspirations. Begin to build your confidence, and work through problems rather than avoid them. Remember that power is not necessarily control over situations, but the ability to deal with whatever comes your way.\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Always believe that good things are possible, and remember that mistakes can be lessons that lead to discoveries. Take your fear and transform it into trust; learn to rise above anxiety and doubt. Turn your “worry hours” into “productive hours”. Take the energy that you have wasted and direct it toward every worthwhile effort that you can be involved in.\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;You will see beautiful things happen when you allow yourself to experience the joys of life. You will find happiness when you adopt positive thinking into your daily routine and make it an important part of your world.\n
+        </item>
+
+        <item>
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;It is curious that our own offenses should seem so much less heinous than the offenses of others. I suppose the reason is that we know all the circumstances that have occasioned them and so manage to excuse in ourselves what we cannot excuse in others. We turn our attention away from our own defects, and when we are forced by untoward events to consider them, find it easy to condone them. For all I know we are right to do this; they are part of us and we must accept the good and bad in ourselves together.\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;But when we come to judge others, it is not by ourselves as we really are that we judge them, but by an image that we have formed of ourselves from which we have left out everything that offends our vanity or would discredit us in the eyes of the world. To take a trivial instance: how scornful we are when we catch someone out telling a lie; but who can say that he has never told not one, but a hundred?\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;There is not much to choose between men. They are all a hotchpotch of greatness and littleness, of virtue and vice, of nobility and baseness. Some have more strength of character, or more opportunity, and so in one direction or another give their instincts freer play, but potentially they are the same. For my part, I do not think I am any better or any worse than most people, but I know that if I set down every action in my life and every thought that has crossed my mind, the world would consider me a monster of depravity. The knowledge that these reveries are common to all men should inspire one with tolerance to oneself as well as to others. It is well also if they enable us to look upon our fellows, even the most eminent and respectable, with humor, and if they lead us to take ourselves not too seriously.\n
+        </item>
+
+        <item>
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;To be really happy and really safe, one ought to have at least two or three hobbies, and they must all be real. It is no use starting late in life to say: “I will take an interest in this or that.” Such an attempt only aggravates the strain of mental effort. A man may acquire great knowledge of topics unconnected with his daily work, and yet hardly get any benefit or relief. It is no use doing what you like; you have got to like what you do. Broadly speaking, human beings may be divided into three classes: those who are toiled to death, those who are worried to death, and those who are bored to death. It is no use offering the manual laborer, tired out with a hard week’s sweat and effort, the chance of playing a game of football or baseball on Saturday afternoon. It is no use inviting the politician or the professional or business man, who has been working or worrying about serious things for six days, to work or worry about trifling things at the weekend. \n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;It may also be said that rational, industrious, useful human beings are divided into two classes: first, those whose work is work and whose pleasure is pleasure; and secondly, those whose work and pleasure are one. Of these the former are the majority. They have their compensations. The long hours in the office or the factory bring with them as their reward, not only the means of sustenance, but a keen appetite for pleasure even in its simplest and most modest forms. But Fortune’s favored children belong to the second class. Their life is a natural harmony. For them the working hours are never long enough. Each day is a holiday, and ordinary holidays when they come are grudged as enforced interruptions in an absorbing vacation. Yet to both classes the need of an alternative outlook, of a change of atmosphere, of a diversion of effort, is essential. Indeed, it may well be that those whose work is their pleasure are those who most need the means of banishing it at intervals from their minds.\n
+        </item>
+
+        <item>
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;If I were a boy again, I would practice perseverance more often, and never give up a thing because it was hard or inconvenient. If we want light, we must conquer darkness. Perseverance can sometimes equal genius in its results. “There are only two creatures,” says a proverb, “who can surmount the pyramids: the eagle and the snail.”\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;If I were a boy again, I would school myself into a habit of attention; I would let nothing come between me and the subject in hand. I would remember that a good skater never tries to skate in two directions at once. The habit of attention becomes part of our life, if we begin early enough. I often hear grown-up people say, “I could not fix my attention on the lecture or book, although I wished to do so”, and the reason is, the habit was not formed in youth.\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;If I were to live my life over again, I would pay more attention to the cultivation of the memory. I would strengthen that faculty by every possible means, and on every possible occasion. It takes a little hard work at first to remember things accurately; but memory soon helps itself, and gives very little trouble. It only needs early cultivation to become a power.\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;If I were a boy again, I would look on the cheerful side. Life is very much like a mirror: if you smile upon it, it smiles back upon you; but if you frown and look doubtful on it, you will get a similar look in return. Inner sunshine warms not only the heart of the owner, but of all that come in contact with it. Who shuts love out, in turn shall be shut from love.\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;If I were a boy again, I would school myself to say no more often. I might write pages on the importance of learning very early in life to gain that point where a young boy can stand erect, and decline doing an unworthy act because it is unworthy.\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;If I were a boy again, I would demand of myself more courtesy towards my companions and friends, and indeed towards strangers as well. The smallest courtesies along the rough roads of life are like the little birds that sing to us all winter long, and make that season of ice and snow more endurable.\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Finally, instead of trying hard to be happy, as if that were the sole purpose of life, I would, if I were a boy again, try still harder to make others happy.\n
+        </item>
+
+        <item>
+            The love of beauty is an essential part of all healthy human nature. It is a moral quality. The absence of it is not an assured ground of condemnation, but the presence of it is an invariable sign of goodness of heart. In proportion to the degree in which it is felt will probably be the degree in which nobleness and beauty of character will be attained.\n
+            Natural beauty is an all-pervading presence. The universe is its temple. It unfolds into the numberless flowers of spring. It waves in the branches of trees and the green blades of grass. It haunts the depths of the earth and the sea. It gleams from the hues of the shell and the precious stone. And not only these minute objects but the oceans, the mountains, the clouds, the stars, the rising and the setting sun---all overflow with beauty. This beauty is so precious, and so congenial to our tenderest and noblest feelings, that it is painful to think of the multitude of people living in the midst of it and yet remaining almost blind to it.\n
+            All persons should seek to become acquainted with the beauty in nature. There is not a worm we tread upon, nor a leaf that dances merrily as it falls before the autumn winds, but calls for our study and admiration. The power to appreciate beauty not merely increases our sources of happiness---it enlarges our moral nature, too. Beauty calms our restlessness and dispels our cares. Go into the fields or the woods, spend a summer day by the sea or the mountains, and all your little perplexities and anxieties will vanish. Listen to sweet music, and your foolish fears and petty jealousies will pass away. The beauty of the world helps us to seek and find the beauty of goodness.\n
+        </item>
+
+        <item>
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;I was up the next morning before the October sunrise, and away through the wild and the woodland. The rising of the sun was noble in the cold and warmth of it peeping down the spread of light; he raised his shoulder heavily over the edge of grey mountain and wavering length of upland. Beneath his gaze the dew-fogs dipped, and crept to the hollow places, then stole away in line and column, holding skirts, and clinging subtly at the sheltering corners where rock hung over grassland, while the brave lines of the hills came forth, one beyond other gliding.\n 
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;The woods arose in folds, like drapery of awakened mountains, stately with a depth of awe, and memory of the tempests. Autumn’s mellow hand was upon them, as they owned already, touched with gold and red and olive, and their joy towards the sun was less to a bridegroom than a father. \n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Yet before the floating impress of the woods could clear itself, suddenly the gladsome light leaped over hill and valley, casting amber, blue, and purple, and a tint of rich red rose; according to the scene they lit on, and the curtain flung around; yet all alike dispelling fear and the cloven hoof of darkness, all on the wings of hope advancing, and proclaiming, “God is here!” Then life and joy sprang reassured from every crouching hollow; every flower and bud and bird had a fluttering sense of them; and all the flashing of God’s gaze merged into soft beneficence. \n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;So, perhaps, shall break upon us that eternal morning, when crag and chasm shall be no more, neither hill and valley, nor great unvintaged ocean; when glory shall not scare happiness, neither happiness envy glory; but all things shall arise, and shine in the light of the Father’s countenance, because itself is risen. \n
+        </item>
+
+        <item>
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;All the wisdom of the ages, all the stories that have delighted mankind for centuries, are easily and cheaply available to all of us within the covers of books——but we must know how to avail ourselves of this treasure and how to get the most from it.\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;I am most interested in people, in meeting them and finding out about them. Some of the most remarkable people I’ve met existed only in a writer’s imagination, then on the pages of his book, and then, again, in my imagination. I’ve found in books new friends, new societies, new worlds.\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;If I am interested in people, others are interested not so much in who as in how. Who in the books includes everybody from science-fiction superman two hundred centuries in the future all the way back to the first figures in history. How covers everything from the ingenious explanations of Sherlock Holmes to the discoveries of science and ways of teaching manners to children.\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Reading is a pleasure of the mind, which means that it is a little like a sport: your eagerness and knowledge and quickness make you a good reader. Reading is fun, not because the writer is telling you something, but because it makes your mind work. Your own imagination works along with the author\'s or even goes beyond his. Your experience, compared with his, brings you to the same or different conclusions, and your ideas develop as you understand his.\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Every book stands by itself, like a one-family house, but books in a library are like houses in a city. Although they are separate, together they all add up to something; they are connected with each other and with other cities. The same ideas, or related ones, turn up in different places; the human problems that repeat themselves in life repeat themselves in literature, but with different solutions according to different writings at different times.\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Reading can only be fun if you expect it to be. If you concentrate on books somebody tells you “you ought” to read, you probably won\'t have fun. But if you put down a book you don\'t like and try another till you find one that means something to you, and then relax with it, you will almost certainly have a good time——if and you become as a result of reading, better, wiser, kinder, or more gentle, you won\'t have suffered during the process.\n
+        </item>
+
+        <item>
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;All of us have read thrilling stories in which the hero had only a limited and specified time to live. Sometimes it was as long as a year, sometimes as short as 24 hours. But always we were interested in discovering just how the doomed hero chose to spend his last days or his last hours. I speak, of course, of free men who have a choice, not condemned criminals whose sphere of activities is strictly delimited.\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Such stories set us thinking, wondering what we should do under similar circumstances. What events, what experiences, what associations should we crowd into those last hours as mortal beings, What happiness should we find in reviewing the past? What regrets?\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Sometimes I have thought it would be an excellent rule to live each day as if we should die tomorrow. Such an attitude would emphasize sharply the values of life. We should live each day with gentleness, vigor and a keenness of appreciation which are often lost when time stretches before us in the constant panorama of more days and months and years to come. There are those, of course, who would adopt the Epicurean motto of “Eat, drink, and be merry”. But most people would be chastened by the certainty of impending death.\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;In stories the doomed hero is usually saved at the last minute by some stroke of fortune, but almost always his sense of values is changed. He becomes more appreciative of the meaning of life and its permanent spiritual values. It has often been noted that those who live, or have lived, in the shadow of death bring a mellow sweetness to everything they do.\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Most of us, however, take life for granted. We know that one day we must die, but usually we picture that day as far in the future. When we are in buoyant health, death is all but unimaginable. We seldom think of it. The days stretch out in an endless vista. So we go about our petty tasks, hardly aware of our listless attitude toward life.\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;The same lethargy, I am afraid, characterizes the use of all our faculties and senses. Only the deaf appreciate hearing, only the blind realize the manifold blessings that lie in sight. Particularly does this observation apply to those who have lost sight and hearing in adult life. But those who have never suffered impairment of sight or hearing seldom make the fullest use of these blessed faculties. Their eyes and ears take in all sights and sounds hazily, without concentration and with little appreciation. It is the same old story of not being grateful for what we have until we lose it, of not being conscious of health until we are ill.\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;I have often thought it would be a blessing if each human being were stricken blind and deaf for a few days at some time during his early adult life. Darkness would make him more appreciative of sight; silence would teach him the joys of sound.\n
+        </item>
+
+
+
+    </string-array>
+
+    <string-array name="wzyd_chinese_translate">
+        <item>
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;我爱你，不是因为你是一个怎样的人，而是因为我喜欢与你在一起时的感觉。\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;没有人值得你流泪，值得让你这么做的人不会让你哭泣。\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;失去某人，最糟糕的莫过于，他近在身旁，却犹如远在天边。\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;纵然伤心，也不要悉眉不展，因为你不知是谁会爱上你的笑容。\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;对于世界而言，你是一个人；但是对于某人，你是他的整个世界。\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;不要为那些不愿在你身上花费时间的人而浪费你的时间。\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;爱你的人如果没有按你所希望的方式爱你，那并不代表他们没有全心全意地爱你。\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;不要着急，最好的总会在最不经意的时候出现。\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;在遇到梦中人之前，上天也许会安排我们先遇到别人；在我们终于遇见心仪的人时，便应当心存感激。\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;不要因为结束而哭泣，微笑吧，为你的曾经拥有。\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;“生命是束纯净的火焰，我们依靠自己内心看不见的太阳而存在。”\n
+        </item>
+
+        <item>
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;初雪降临，多么美啊！它整日整夜那么静静地飘着，落在山岭上，落在草地上，落在世人的屋顶上，落在逝者的坟墓上。\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;在一片白茫茫之中，只有河流在美丽的画面上划出一道弯弯曲曲的黑线；还有那叶儿落净的树木，映衬着铅灰色的天空，更显得枝丫交错，姿态万千。\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;初雪飘落时，是何等的宁谧，何等的幽静！一切声响都趋沉寂，一切噪音都化作柔和的音乐。再也听不见马蹄得得，再也听不见车轮辚辚！唯有雪橇的铃铛，奏出和谐的乐声，那明快欢乐的节拍犹如孩子们心房的搏动。\n
+        </item>
+
+        <item>
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;当你身陷困境的时候(你有时会)，回想你生命中快乐和幸福的时刻。回想它是如何使你快乐，你便有了走出困境的勇气。\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;当面对重重困难，你感觉举步维艰的时候，回想你以前是如何坚持到底战胜困难的最后时刻的。这样，你就会发现你有能力克服每个障碍。\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;当你觉得精疲力尽的时候，暂时离开，让自己稍作休息。\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;从你的生活中多抽出点时间去梦想，重振你的精力，你会完全准备好又去迎接新的一天。\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;当你感觉到紧张的压力，做一些有乐趣的事吧。你会发现压力在渐渐消逝，你的想法也渐渐明朗了。\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;当你面对重重困难的时候，要意识到相对于你的整个生命，这些难题其实是微不足道的，请铭记你生命中美好的东西。\n
+        </item>
+
+        <item>
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;风平浪静的大海上，每个人都是领航员。\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;但只有晴天没有阴霾，只有快乐没有悲伤，那就全然不是人生。就拿最幸福的人来说吧——他们的命运就是一团纠缠不清的纱线。丧亲之痛和神恩赐福此起彼伏，让我们悲欢交替。甚至连死亡本身也使生命更加珍贵。人们在生命的庄严时刻，在哀伤和丧亲的阴影之下，最接近真实的自我。\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;在生活或事业中，性格比才智更能指导我们，心灵比头脑更能引导我们，而由判断而得的克制、耐心和教养比天分更能让我们受益。\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;我一向认为，内心开始生活得更为严谨的人，他外在的生活会开始变得更为简朴。在物欲横流的年代，但愿我能向世人表明：人类的真正需求少得多么可怜。\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;反思自己的过错以至于不重蹈覆辙才是真正的悔悟。高人一等并没有什么值得夸耀的。真正的高贵是超越原来的你。\n
+        </item>
+
+        <item>
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;那么在你的生活中，你有什么样的梦想要去实现呢?\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;每个人-这个世界上的每一个人都有一个梦想：一种激情，一种他们对生活的渴望，就是这个渴望推动着他们向前。你，我的朋友，在你的内心深处也有一种这样的渴望，它会时而轻声向你呼唤，但有时，它会大声呼喊出来，以便唤起你的醒觉，因为这种渴望来自你的灵魂。\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;在这个心灵深处的渴望中隐藏着在激情，实现自我，以及梦想中生活的魔力。它意味着做一个真实的你，在你所能挥展的激情和能量下朝你的梦想努力。\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;当你生活在你内心深处的激情中时，你不必寻求他人的赞同，你能够画出你自己的蓝图，并成为你命运的主宰。更重要的是，你会感觉到一个完整，不孤独，有激情的你。\n
+        </item>
+
+        <item>
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;就为了今天，我将尽力只度过今天而不立刻去解决终身的问题。对一件令我沮丧而又必须坚持一辈子的事，我只能坚持十二个小时。\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;就为了今天，我会很快乐。亚伯拉罕-林肯说过，“大多数人都是决定想怎么高兴就怎么高兴。”这已经被认为是真理。\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;就为了今天，我会做自我调整适应事物本来的面目，而不是想方设法使每一件事满足自己的欲望。当机会来临的时候我会抓住它。\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;就为了今天，我会尽力心强志坚。我会学习，学一些有用的东西。我不会做一个精神上的流浪汉。我会读一些需要努力、思考和注意力集中的东西。\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;就为了今天，我会用三种方法来磨炼我的灵魂。我会做对某人有利的事但不能被发现，若有人发现了就不算数。我将会做至少两件我不愿做的事情——只为了磨练。我不会让任何人感到我的感情受到了伤害：它们可能受到了伤害，但今天我不想表现出来。\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;就为了今天，我会过得很惬意。看起来我达到了最佳状态，穿着得体、讲话谦虚、行为礼貌、一点不吹毛求疵，尽量改进和调节自己而不是别人。\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;就为了今天，我会制定一个计划，我也许不会严格地遵守它，但我一定要有计划。我会避免两种错误：仓促行事和优柔寡断。\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;就为了今天，我将会独自静静地呆上半小时放松。在这半小时里，某个时刻，我会日后对我的生活有个更好的看法。\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;就为了今天，我将不再害怕。尤其我不会再害怕享受美丽的事物，并且相信我给予世界的，世界也会给予我。\n
+        </item>
+
+        <item>
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;我们总是有东西可感到欣慰。我们呼吸的空气是一个良好的开端。我们思考和与其相互关联的能力是一个礼物升值。即使我们有习惯的好坏，由于积极因素而存在。我们是为了向他们学习。如果没有对比，我们没有背景。而如果没有背景，内容其实并不重要。如果我们不明白下面的，那上面的是什么呢？如果我们不知道坏了，什么是好呢？我们的习惯是变相的经验教训。他们挑战我们成长，让我们变得更加明了，停下来闻闻玫瑰。\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;当我们感谢和赞赏，我们马上超越一切负面的能量和情绪阻止我们。试试这个：下一次，您的邮件得到了一则广告，说声“谢谢”。你有邮箱和地址，感觉很好。不要害怕广告，抵制广告，生气或担心广告。简单地欣赏它。现在做同样的事情，下次，你由于飞行而耽误了，拒绝了空缺的职位，或者被不知道任何好坏的人批评。认识到世界是充满刺激的，我们有将如何作出反应的选择的能力。\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;密切关注您的重复的倾向和习惯，并提醒自己打重播（自动档）按钮之前暂停。不要煽动对敌视和阻力的不满之火。\n
+        </item>
+
+        <item>
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;“快乐的日子使人睿智。” 　\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;　--- 约翰?梅斯菲尔德 　\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;　第一次读到英国桂冠诗人梅斯菲尔德的这行诗时，我感到十分震惊。他想表达什么意思？我以前从未对此仔细考虑，总是认定这行诗反过来才正确。但他冷静而又胸有成竹的表达引起了我的注意，令我无法忘怀。\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; 　终于，我似乎领会了他的意思，并意识到这行诗意义深远。快乐带来的睿智存在于敏锐的洞察力之间，不会因忧虑而含混迷惑，也不会因绝望和厌倦而黯然模糊，更不会因恐惧而造成盲点。 \n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;　积极的快乐 – 并非单纯的满意或知足 – 通常不期而至，就像四月里突然下起的春雨，或是花蕾的突然绽放。然后，你就会发觉与快乐结伴而来的究竟是何种智慧。草地更为青翠，鸟吟更为甜美，朋友的缺点也变得更能让人理解，宽容。快乐就像是一副眼镜，可以矫正你的精神视力。 \n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;　快乐的视野并不仅限于你周围的事物。当你不快乐时，你的思维陷入情感上的悲哀，你的眼界就像是被一道墙给阻隔了，而当你快乐时，这道墙就会砰然倒塌。 \n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;  你的眼界变得更为宽广。你脚下的大地，你身边的世界，包括人，思想，情感和压力，现在都融入了更为广阔的景象之中，其间每件事物 的比例都更加合理。而这就是睿智的起始。\n
+
+        </item>
+
+        <item>
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;快乐就像一块为了激起阵阵涟漪而丢进池塘的小石头。正好史蒂文森所说，快乐是一种责任。\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;快乐这个词并没有确切的定义，快乐的人快乐的理由多种多样。快乐的关键并不是财富或身体健康，因为我们发现有些乞丐，残疾人和所谓的失败者也都非常快乐。\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;快乐是一种意外的收获，但保持快乐却是一种成就，一种灵性的胜利。努力追寻快乐并不自私，实际上，这是我们对自己和他人应尽的责任。\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;不快乐就像传染病，它使得人们都躲避不快乐的人。不快乐的人很快就会发现自己处于孤独，悲惨，痛苦的境地。然而，有一种简单得看似荒谬的治病良方：如果你不快乐，就假装你很快乐!\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;这很有效。不久你就会发现，别人不再躲着你了，相反，你开始吸引别人了。你会发觉，做一块能激起好意涟漪的小石头有多么值得。\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;然后假装就变成了现实。你拥有了使心灵平静的秘密，会因帮助他人而忘我。\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;一旦你认识到快乐是一种责任并使快乐成为习惯，通向不可思议的乐园的大门就会向你敞开，那里满是感激你的朋友。\n
+        </item>
+
+        <item>
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;如果周围的人毫无理性地向你发难，\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;你仍能镇定自若保持冷静\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;如果众人对你心存猜忌，\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;你仍能自信如常并认为他们的猜忌情有可原；\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;如果你肯耐心等待不急不躁，\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;或遭人诽谤却不以牙还牙，\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;或遭人憎恨却不以恶报恶；\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;既不装腔作势，亦不气盛趾高；\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;如果你有梦想，而又不为梦主宰；\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;如果你有神思，而又不走火入魔；\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;如果你坦然面对胜利和灾难，\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;对虚渺的胜负荣辱胸怀旷荡；\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;如果你能忍受有这样的无赖，\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;歪曲你的口吐真言蒙骗笨汉，\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;或看着心血铸就的事业崩溃，\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;仍能忍辱负重脚踏实地重新攀登；\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;如果你敢把取得的一切胜利，\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;为了更崇高的目标孤注一掷，\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;面临失去，决心从头再来而绝口不提自己的损失；\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;如果人们早已离你而去，你仍能坚守阵地奋力前驱，\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;身上已一无所有，唯存意志在高喊“顶住”；\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;如果你跟村夫交谈而不变谦虚之态,\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;亦或与王侯散步而不露谄媚之颜；\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;如果敌友都无法对你造成伤害；\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;如果众人对你信赖有加却不过分依赖；\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;如果你能惜时如金利用每一分钟不可追回的光阴；\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;那么，你的修为就会如天地般博大，并拥有了属于自己的世界，\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;更重要的是：我的儿子，你成为了一名真正的男子汉\n
+        </item>
+
+        <item>
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;青春不是年华，而是心境；青春不是桃面、丹唇、柔膝，而是深沉的意志，恢宏的想象，炙热的感情；青春是生命的深泉在涌流。\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;青春气贯长虹，勇锐盖过怯弱，进取压倒苟安。如此锐气，二十后生而有之，六旬男子则更多见。年岁有加，并非垂老，理想丢弃，方堕暮年。\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;岁月悠悠，衰微只及肌肤；热忱抛却，颓废必致灵魂。忧烦，惶恐，丧失自信，定使心灵扭曲，意气如灰。\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;无论年届花甲，抑或二八芳龄，心中皆有生命之欢乐，奇迹之诱惑，孩童般天真久盛不衰。人人心中皆有一台天线，只要你从天上人间接受美好、希望、欢乐、勇气和力量的信号，你就青春永驻，风华常存。\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;一旦天线下降，锐气便被冰雪覆盖，玩世不恭、自暴自弃油然而生，即使年方二十，实已垂垂老矣；然则只要树起天线，捕捉乐观信号，你就有望在八十高龄告别尘寰时仍觉年轻。\n
+        </item>
+
+        <item>
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;我们正在读一本书的第一章第一行，这本书的页数是无限的……”\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;　　我不知道是谁写的，可我很喜欢这句话，它提醒我们未来是由自己创造的。我们可以把神秘、不可知的未来塑造成我们想象中的任何模样，犹如雕刻家将未成形的石头刻成雕像。\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;　　我们每个人都像是农夫。洒下良种将有丰收，播下劣种或生满野草便将毁去收成。没有耕耘则会一无所获。\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;　　我希望未来比过去更加美好，希望未来不会沾染历史的错误与过失。我们都应举目向前，因我们的余生要用未来书写。\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;　　往昔已逝，静如止水；我们无法再作改变。而前方的未来正生机勃勃；我们所做的每一件事都将会影响着它。只要我们认识到这些，无论是在家中还是在工作上，每天我们的面前都会展现出新的天地。\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;在人类致力开拓的每一片领域上，我们正站在进步的起跑点\n
+        </item>
+
+        <item>
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;如果你觉得心有余力不足，觉得缺乏前进的动力，有时候你只需要改变思维的角度。\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;试着训练自己的思想朝好的一面看，这样你就会汲取实现目标的动力，而不会因为消极沉沦停滞不前。\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;一旦变换看问题的角度，你的生活会豁然开朗，幸福快乐会接踵而来。别交出掌握命运的主动权，也别指望局面会不可思议的好转。你必须与内心希望与热情步调一致。建立自信，敢于与困难短兵相接，而非绕道而行。记住，力量不是驾驭局势的法宝，无坚不摧的能力才是最重要的。\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;请坚信，美好的降临并非不可能，失误也许是成功的前奏。将惶恐化作信任，学会超越担忧和疑虑。让“诚惶诚恐”的时光变得“富有成效”。不要挥霍浪费精力，将它投到有意义的事情中去。当你下意识品尝生命的欢愉时，美好就会出现。当你积极地看待生活，并以此作为你的日常准则时，你就会找到快乐的真谛。\n
+        </item>
+
+        <item>
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;让人奇怪的是，和别人的过错比起来，我们自身的过错往往不是那样的可恶。我想，其原因应该是我们知晓一切导致自己犯错的情况，因此能够设法谅解自己的错误，而别人的错误却不能谅解。我们对自己的缺点不甚关注，即便是深陷困境而不得不正视它们的时候，我们也会很容易就宽恕自己。据我所知，我们这样做是正确的。缺点是我们自身的一部分，我们必须接纳自己的好和坏。\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;但是当我们评判别人的时候，情况就不同了。我们不是通过真实的自我来评判别人，而是用一种自我形象来评判，这种自我形象完全摒弃了在任何世人眼中会伤害到自己的虚荣或者体面的东西。举一个小例子来说：当觉察到别人说谎时，我们是多么地蔑视他啊!但是，谁能够说自从未说过谎?可能还不止一百次呢。\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;人和人之间没什么大的差别。他们皆是伟大与渺小，善良与邪恶，高尚与低俗的混合体。有的人性格比较坚毅，机会也比较多，因而达个或那个方面，能够更自由地发挥自己的禀赋，但是人类的潜能却都是相同的。至于我自己，我认为自己并不比大多数人更好或者更差，但是我知道，假如我记下我生命中每一次举动和每一个掠过我脑海的想法的话，世界就会将我视为一个邪恶的怪物。每个人都会有这样的怪念头，这样的认识应当能够启发我们宽容自己，也宽容他人。同时，假如因此我们得以用幽默的态度看待他人，即使是天下最优秀最令人尊敬的人，而且假如我们也因此不把自己看得过于重要，那是很有裨益的。\n
+        </item>
+
+        <item>
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;要想获得真正的快乐与安宁，一个人应该有至少两三种爱好，而且必须是真正的爱好。到晚年才说“我对什么什么有兴趣”是没用的，这只会徒然增添精神负担。一个人可以在自己工作之外的领域获得渊博的知识，不过他可能几乎得不到什么好处或是消遣。做你喜欢的事是没用的，你必须喜欢你所做的事。总的来说，人可以分为三种：劳累而死的、忧虑而死的、和烦恼而死的。对于那些体力劳动者来说，经历了一周精疲力竭的体力劳作，周六下午让他们去踢足球或者打棒球是没有意义的。而对那些政治家、专业人士或者商人来说，他们已经为严肃的事情操劳或烦恼六天了，周末再让他们为琐事劳神也是没有意义的。\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;也可以说，那些理性的、勤勉的、有价值的人们可分为两类，一类，他们的工作就是工作，娱乐就是娱乐；而另一类，他们的工作即娱乐。大多数人属于前者，他们得到了相应的补偿。长时间在办公室或工厂里的工作，回报给他们的不仅是维持了生计，还有一种强烈的对娱乐的需求，哪怕是最简单的、最朴实的娱乐。不过，命运的宠儿则属于后者。他们的生活很自然和谐。对他们来说，工作时间永远不嫌长。每天都是假日，而当正常的假日来临时，他们总是埋怨自己所全身心投入的休假被强行中断了。不过，有些事情对两类人是同样至关重要的，那就是转换一下视角、改变一下氛围、将精力转移到别的事情上。确实，对那些工作即是娱乐的人来说，最需要隔一段时间就用某种方式把工作从脑子里面赶出去。\n
+        </item>
+
+        <item>
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;假如我再回到童年，我会更多地培养自己的毅力，决不因为事情艰难或麻烦而放弃。如果我们要光明，就得征服黑暗。就其产生的结果而言，毅力往往可以与天才相媲美。谚语中说："只有两种生物能登上金字塔--雄鹰与蜗牛。\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;假如我再回到童年，我会培养自己专心致志的习惯；如果手头有事，决不让任何东西使我分心。我会牢记：一位优秀的溜冰手从不试图同时滑向两个不同的方向。如果及早养成这样的习惯，它就会成为我们生命中的一部分。我常常听到成年人说，尽管我希望能集中注意力听演讲或读书，但往往做不到，其原因就是年轻时没有养成这种习惯。\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;假如我能重新再活一遍，我会更加注意培养自己的记忆力。我要采取一切可能的办法，在一切可能的场合，增强记忆力。要精确地记住一切事物，起初的确要费番小小的努力；但用不了多久，记忆力本身就会起作用，使其成为轻而易举的事。只需及早培养，记忆自会成为一种才能。\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;假如我再回到童年，我会凡事都看光明的一面。生活就像一面镜子：你朝它微笑，它也会朝你微笑；但如果你朝它皱眉头，用怀疑的目光看待它，它也对你抱以同样的表情。 内心的阳光不仅温暖了自己的心，同时也温暖了所有跟他接触的人的心。谁将爱拒之门外，谁就会被爱拒之门外。\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;假如我再回到童年，我就要养成经常说"不"的习惯。一个少年要能挺起腰杆，拒绝做不值得做的事--就因为它不值得做。我可以写上好几页，谈谈早期培养这一点的重要性。\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;假如我再回到童年，我会要求自己对待同伴和朋友更有礼貌，而且对陌生人也确实如此。在坎坷的人生道路上，最微不足道的礼貌也犹如在漫长的冬季为我们歌唱的小鸟，使得冰天雪地的严冬变得更容易忍受。\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;最后，假如我再回到童年，我不会竭力为自己谋幸福--似乎那是人生的唯一目标；与之相反，我会更加努力，让他人幸福。\n
+        </item>
+
+        <item>
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;爱美及是整个健全人性不可或缺之一部分。它是一种道德品质。缺乏这种品质并不能作为受到责难的充分理由，但是拥有这种品质则是心灵美好的永恒标志。品德的高尚与美好所达到的程度可能与对美的感受程度成正比。\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;大自然的美无处不在，整个宇宙就是美的殿堂。美，在春日百花中绽放;美，在绿叶嫩枝间摇曳;美，在深海幽谷里游弋;美，在奇石与贝壳的缤纷色彩中闪烁。不只是这些细微之物，还有海洋，山川，云彩，繁星，日升日落 – 一切都是洋溢着美。这样的美是如此珍贵，与我们最温柔，最高尚的情愫是如此相宜。然而，想到很多人置身于美之中，却几乎对它熟视无睹，真是令人痛心不已。\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;所有的人都应该去认识大自然之美。没有一条我们踩过的小虫，没有一片在秋风拂掠之际飞舞的树叶不值得我们研究与赞赏。欣赏美的能力不仅增加了我们快乐的来源，也加强了我们德性的修养。美使我们不安的心平静下来，也驱散了我们的忧虑。到田野或森林去，在夏日的海边或山上呆上一天，那么你所有微不足道的困惑与焦虑都会烟消云散。倾听悦耳的音乐，你那愚蠢的恐惧与狭隘的嫉妒都会过去。世界之美将有助于我们找到为善之美。\n
+        </item>
+
+        <item>
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;第二天凌晨，在十月的太阳升起之前，我已经起身并穿过了旷野和丛林。十月的清晨乍寒还暖，日出的景象非常壮观。透过一片晨曦，朝日从朦胧的山冈和起伏连绵的高地过际，沉重地抬起肩头。在它的逼视下，蒙蒙的雾气向下沉降，落到洼地里去，接着一丝丝一缕缕地悄悄飘散，而在草地之上悬岩之下的那些隐秘角落里，雾气却还不愿散去，同时群山的雄姿接二连三地显现出来。\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;森林也层层叠叠地显现，宛若刚刚苏醒的山峦的斗篷，端庄威严，并带着狂风暴雨的回忆。秋天成熟的手已经在抚摸这些山林，因为它们的颜色已经改变，染上了金黄，丹红和橄榄绿。它们对朝日所怀的一片喜悦，像是要奉献给一个新郎，更像是要奉献给一位父亲。\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;然而，在树林那流动的景色逝去之前，欢悦的晨光突然跃出了峰峦和山谷，光线所及，把照到的地方和周围的森林分别染成青色，紫色，琥珀色和富丽的红玫瑰色。光线照到哪里，那里就如同一幅幕布被掀开。而所有的一切都同样在驱散恐惧和黑暗的魔影；所有的一切都展开希望的翅膀，向前习翔，并大声宣告：“上帝在这里！”于是生命和欢乐从每一个蜷伏的洞穴里信心十足地欣然跃出；一切花朵，蓓蕾和鸟雀都感到了生命和欢乐而抖动起来；上帝的凝视汇合成温柔的恩泽。\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;也许，那永恒的晨光就会这样降临人间，那时不再有险崖沟壑，不再有峰峦山谷，也不再有浩瀚无际的海洋；万物都将踊跃升腾，在造物主慈爱的光芒中生辉，因为太阳已经升起。\n
+        </item>
+
+        <item>
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;历代的智慧，几个世纪以来人类一直籍以为乐的故事，所有这些都可以从书中方便而又便宜的获得。但是我必须懂得如何来利用这份宝藏，懂得如何才能使它对我们最为有益。世界上最为不幸的人，也就是那些从未体验过读好书之乐趣的人吧。\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;我对人最为感兴趣，喜欢结识他们，喜欢了解他们。我认识的一些非凡之人，首先存在于作者的像想象之中，然后表现在作品的字里行间，最后在我的想象中重新显现。我在书中找到了新的朋友，新的社会，还有新的语言。\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;如果说我对人感兴趣的话，别人感兴趣的就是事。书中的人形形色色，从历史上第一个伟人一直到科幻小说中200年后的超人。书中的事也无奇不有，从福尔摩斯里的精彩案情，到各种科学发现，再到如何让孩子懂得礼貌。\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;阅读是思维的享乐，有些类似体育运动，态度的热切，知识的渊博与思维的敏锐造就了出色的读者。读书之乐趣不在于笔者所告诉你的，而在于他令你所思考的。读书时仿佛和作者一样，一切都在眼前上演，而甚至超越作者，获得新知。通过的与作者经历的比较，你会得出与作者相似或相异的结论，而你对作者的理解同时也启迪了你的思考。\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;书是独立的，像是一个家庭的房子，而图书馆中的书则汇聚成了一座城市。虽说他们自成一体，但汇总起来却也形成了广阔的天地，他们互相关联，也连通着其他的城市。相同的想法，或者相关的，出现在不同的作品中，一再困扰人类生活的问题也在文学作品里反复呈现，而时代著作则将各自的解决方案呈上。书籍相互影响，他们如若家庭一样，也形成了世代，承前启后。每当抓过一本书来读，你便与一个家族的想法链接起来，在这漫长的过程中，你不仅阅尽世间百态，更觅得了自己的身影。\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;读书之乐趣唯有自己期待时才可得到。一心阅读别人强烈建议你读的书并不一定会觉得赏心悦目。但你放下不喜欢的书，不断的尝试，直到邂逅了一本俘获了你内心的书，然后放松去阅读，你将会乐在其中。而当你发现自己因为阅读变得更加聪颖，善良，温和，读书也便不再是一件遭罪的事了。\n
+        </item>
+
+        <item>
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;我们都读过震撼人心的故事，故事中的主人公只能再活一段很有限的时光，有时长达一年，有时却短至一日。但我们总是想要知道，注定要离世人的会选择如何度过自己最后的时光。当然，我说的是那些有选择权利的自由人，而不是那些活动范围受到严格限定的死囚。\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;这样的故事让我们思考，在类似的处境下，我们该做些什么？作为终有一死的人，在临终前的几个小时内我们应该做什么事，经历些什么或做哪些联想？回忆往昔，什么使我们开心快乐？什么又使我们悔恨不已？ 有时我想，把每天都当作生命中的最后一天来边，也不失为一个极好的生活法则。这种态度会使人格外重视生命的价值。我们每天都应该以优雅的姿态，充沛的精力，抱着感恩之心来生活。但当时间以无休止的日，月和年在我们面前流逝时，我们却常常没有了这种子感觉。当然，也有人奉行“吃，喝，享受”的享乐主义信条，但绝大多数人还是会受到即将到来的死亡的惩罚。\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;在故事中，将死的主人公通常都在最后一刻因突降的幸运而获救，但他的价值观通常都会改变，他变得更加理解生命的意义及其永恒的精神价值。我们常常注意到，那些生活在或曾经生活在死亡阴影下的人无论做什么都会感到幸福。\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;然而，我们中的大多数人都把生命看成是理所当然的。我们知道有一天我们必将面对死亡，但总认为那一天还在遥远的将来。当我们身强体健之时，死亡简直不可想象，我们很少考虑到它。日子多得好像没有尽头。因此我们一味忙于琐事，几乎意识不到我们对待生活的冷漠态度。\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;我担心同样的冷漠也存在于我们对自己官能和意识的运用上。只有聋子才理解听力的重要，只有盲人才明白视觉的可贵，这尤其适用于那些成年后才失去视力或听力之苦的人很少充分利用这些宝贵的能力。他们的眼睛和耳朵模糊地感受着周围的景物与声音，心不在焉，也无所感激。这正好我们只有在失去后才懂得珍惜一样，我们只有在生病后才意识到健康的可贵。\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;我经常想，如果每个人在年轻的时候都有几天失时失聪，也不失为一件幸事。黑暗将使他更加感激光明，寂静将告诉他声音的美妙。\n
+        </item>
+
+    </string-array>
+
+    <!-- **************************** 文章欣赏 end ***************************** -->
+
+
+
+
+
+
+
+
+
+
+
+    <!-- **************************** 段落阅读 start ***************************** -->
 
 
     <string-array name="dl_content">
         <item>  <Data>
-            <![CDATA[
+            <![CDATA[&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
             He <font color="#ff0000">attributed</font> part of the rise in temperatures this year to El Niño,
             in which warming waters in the <font color="#ff0000">equatorial</font> Pacific Ocean pump a lot of heat into the atmosphere.
            <u> El Niño is now ending and water temperatures in the Pacific are dropping,
@@ -118,7 +475,7 @@ It may be difficult to trick yourself into believing your nerves are from caffei
             </Data>
         </item>
         <item>  <Data>
-            <![CDATA[
+            <![CDATA[&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
            <u>As fantastic as this sounds, you can’t really <font color="#ff0000">shake off</font> the feeling that Go Cubes is just a fun way of marketing brain-enhancing drugs.</u>
             But that’s the perception Brandt and Woo are trying hard to fight. They want to make <font color="#ff0000">nootropics</font> – chemical <font color="#ff0000">supplements</font> that
             make people smarter and more alert – user-friendly, so that’s why they’ve chosen to package them as candy instead of pills.
@@ -126,7 +483,7 @@ It may be difficult to trick yourself into believing your nerves are from caffei
             </Data>
         </item>
         <item>  <Data>
-            <![CDATA[
+            <![CDATA[&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
                During the Ming Dynasty，the island was called "Yuanshazhou Island". <u>It got its present name from the huge <font color="#ff0000">reef</font> surrounding it.</u>
                 When the tide comes in, the waves pound the reef and it sounds like the beating of a <font color="#ff0000">drum</font>.
                 Thus the island came to be named "Gulangyu".Gu in Chinese means "drum"，and Lang "waves".
@@ -134,7 +491,7 @@ It may be difficult to trick yourself into believing your nerves are from caffei
             </Data>
         </item>
         <item>  <Data>
-            <![CDATA[
+            <![CDATA[&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
                 No matter how much money you spend on something and how special that product is,
                 you will get used to having it over time and it will become just another object. People adapt to having new stuff,
                 and anything that <font color="#ff0000">disrupts</font> that adaptation is likely to prolong happiness,
@@ -143,7 +500,7 @@ It may be difficult to trick yourself into believing your nerves are from caffei
             </Data>
         </item>
         <item>  <Data>
-            <![CDATA[
+            <![CDATA[&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
                 With one hand her father held the plastic <font color="#ff0000">pearls</font> and the other he pulled out of his pocket a blue <font color="#ff0000">velvet</font> box.
                  Inside of the box were real, genuine , beautiful pearls.
                  He had had them all along. <u>He was waiting for Jenny to give up the cheap stuff so he could give her the real thing.</u>
@@ -151,7 +508,7 @@ It may be difficult to trick yourself into believing your nerves are from caffei
             </Data>
         </item>
         <item>  <Data>
-            <![CDATA[
+            <![CDATA[&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
                 Although <font color="#ff0000">gamification</font> has become a <font color="#ff0000">buzzword</font> among HR directors, the truth is that take-up is limited. <u>In some cases,
                 that was because of the temptation by companies to tack on poorly designed gamification apps just to look the part</u>.
                 In such cases, games fail because the <font color="#ff0000">incentives</font> they offer workers are meaningless,
@@ -160,7 +517,7 @@ It may be difficult to trick yourself into believing your nerves are from caffei
             </Data>
         </item>
         <item>  <Data>
-            <![CDATA[
+            <![CDATA[&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
                 "There\'s been a massive shift," says Derrick Maggard,
                  director of the Apex Systems Center for <font color="#ff0000">Innovation</font> and <font color="#ff0000">Entrepreneurship</font> at Virginia Tech.
                 "Most of these students grew up during the great recession and saw their parents,
@@ -171,7 +528,7 @@ It may be difficult to trick yourself into believing your nerves are from caffei
             </Data>
         </item>
         <item>  <Data>
-            <![CDATA[
+            <![CDATA[&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
                 It may be difficult to <font color="#ff0000">trick</font> yourself into believing your nerves are from caffeine and not the fact that you really,
                 really, really want to make a good impression in some social setting,
                  but there are other ways to change your own thinking about anxiety.
@@ -185,80 +542,313 @@ It may be difficult to trick yourself into believing your nerves are from caffei
             ]]>
             </Data>
         </item>
+
+        <item>
+            <Data>
+            <![CDATA[&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+            You couldn\'t see how much ink it had. <u> It might run dry after the first few <font color="#ff0000">tentative </font> words or last just long enough to create a  <font color="#ff0000">masterpiece </font> (or several) that would last forever and make a difference in the scheme of things. </u> You don\'t know before you begin. Under the rules of the game, you really never know. You have to take a chance!
+            ]]>
+            </Data>
+
+        </item>
+
+        <item>
+              <![CDATA[&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+                <u>That thought could be the potential beginning of the success you have so  <font color="#ff0000">mush </font> yearned for. </u> As the thought crosses your mind. your senses become <font color="#ff0000">alert </font>and you suddenly see a possibility, a realization, a solution, a conclusion, or find the answer to a problem whose solution has long<font color="#ff0000"> eluded </font>you.
+              ]]>
+
+        </item>
+
+        <item><![CDATA[
+                they say that "silence is golden", but of what nature is this "gold"? It can include integrity, honesty and kindness; it can stand for indifference to and <font color="#ff0000">detachment </font>from fame and fortune; but it can also act as an excuse for<font color="#ff0000"> hypocrisy</font>, slyness and<font color="#ff0000"> cowardice</font>... <u>the glittering of gold may not necessarily be the most brilliant <font color="#ff0000">lustre</font> in the world. </u>
+                ]]>
+        </item>
+
+        <item>
+            <![CDATA[&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+            But not every goal will be fully achieved. Not every job will end successfully. Not every relationship will <font color="#ff0000">endure</font>. Not every hope will come to pass. Not every love will last. <u>Not every <font color="#ff0000">endeavor </font>will be completed. Not every dream will be realized. </u>
+            ]]>
+        </item>
+
+        <item>
+            <![CDATA[&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+            Why do we care so much about how we look? Because it matters. Because beauty is powerful. Because even when we learn to value people mostly for being kind and wise and funny, we are still moved by beauty. <u> No matter how much we argue against it or pretend to be <font color="#ff0000">immune</font>, beauty  <font color="#ff0000">exerts</font> its power over us. There is simply no escape. </u>
+            ]]>
+        </item>
+
+        <item>
+            <![CDATA[&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+            <u> People who have never tried this are astounded by the <font color="#ff0000">enormous </font>effect it often has. </u>
+            One of my students got herself bicycling every day simply by putting her bicycle in her doorway before she left for school. When she returned home, that was the first thing she saw, and that\'s all she needed to start <font color="#ff0000"> pedaling </font>away. I\'ve known several people who have overcome nail-biting simply by buying 50 nail files and distributing them everywhere: in their pockets, their desks and their bedrooms. With a nail file always within reach, they tended to <font color="#ff0000">groom </font>rather than bite.
+            ]]>
+        </item>
+
+        <item>
+            <![CDATA[&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+            Through the sea of darkness, hope is the light that brings us comfort, faith, and reassurance. <u>It guides our way if we are lost and gives us a foothold on our fears. </u>The moment we lose hope is the moment we surrender our will to live. We live in a world that is <font color="#ff0000">disintegrating </font>into a vicious hatred, where hope is needed more than ever but cannot be <font color="#ff0000"> discerned</font>. Finding that is rare while the world lives in fear, but the belief in something better, something bigger than this, is what keeps life worth living.
+             ]]>
+        </item>
+
+        <item>
+            <![CDATA[&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+            Outgoing <font color="#ff0000">introverts</font> are counter <font color="#ff0000">intuitive</font>. They’re predictably unpredictable. <u>They’re talkative and fun, yet deep thinkers who enjoy alone time.</u>Check out these signs to see if you can relate as an outgoing introvert.
+            ]]>
+        </item>
+
+        <item>
+             <![CDATA[&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+            Our confidence plays an important role in ability to achieve success and happiness. <u>It affects our mental thought <font color="#ff0000">patterns</font>, the way we speak, the way we act, and the decisions we make in all areas of our lives – career, money, relationships, and even our health. </u>Confident people take more action, <font color="#ff0000">perform</font> better, and are more likely to attain their goals. In addition, confident people also know how to take more enjoyment from their accomplishments are happier in general. 
+             ]]>
+        </item>
+
+        <item>
+            <![CDATA[&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+            Many years passed and the young man was very successful in business. He had a beautiful home and a wonderful family, but realizing his father was very old, he thought perhaps he should go to see him. He had not seen him since that graduation day. <u>Before he could make the <font color="#ff0000">arrangements</font>, he received a telegram telling him his father had passed away, and willed all of his possessions to his son. </u>He needed to come home immediately and take care of things.
+            ]]>
+        </item>
+
+        <item>
+            <![CDATA[&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+            Thank you for the sun, which began my new day. Thank you for<font color="#ff0000"> granting </font>me the faith when I arose this morning that I would find her in this new day. <u> But most of all, thank you for me not having to ever wait on another sunrise because whenever I want to see it, I will look at her and there it shall always be, in her eyes; she will forever hold it for me. </u>
+            ]]>
+        </item>
+
+        <item>
+            <![CDATA[&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+            Yes, the smile―the unaffected, unplanned, natural connection between people. I tell this story in my work because I’d like people to consider that <font color="#ff0000">underneath </font>all the layers we construct to protect ourselves, our dignity, our titles, our degrees, our status and our need to be seen in certain ways―underneath all that, remains the <font color="#ff0000">authentic</font>, essential self. I’m not afraid to call it the soul. <u> I really believe that if that part of you and that part of me could recognize each other, we wouldn’t be enemies. We couldn’t have hate or envy or fear. </u>
+            I sadly conclude that all those other layers, which we so carefully construct through our lives, distance and <font color="#ff0000">insulate </font>us from truly contacting others. Saint-Exupery’s story speaks of that magic moment when two souls recognize each other.
+            ]]>
+        </item>
+
+
     </string-array>
 
     <string-array name="ci_hui">
         <item>
-            1. attribute ：n. 属性；特质\n
-                        vt. 归属；把…归于\n
-                        例句：So you have text nodes, element nodes, and attribute nodes.\n
-            2.  equatorial ：adj. 赤道的，近赤道的；中纬线的\n
-                n. 赤道仪\n
-                短语：equatorial plane  赤道平面\n
+            1. attribute ：\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;n. 属性；特质\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;vt. 归属；把…归于\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;例句：So you have text nodes, element nodes, and attribute nodes.\n
+            2.  equatorial ：\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;adj. 赤道的，近赤道的；中纬线的\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;n. 赤道仪\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; 短语：equatorial plane  赤道平面\n
         </item>
         <item>
-            1. shake off ：摆脱；抖落\n
-                            例句：His companionship made it possible for me to shake off my shrinking sensitiveness.\n
-            2.  nootropics ：n. 益智药；亲精神性\n
-                             短语：Nootropics  Neurotonics 神经营养剂\n
-            3.  supplement ：vt. 增补，补充\n
-                             n. 增补，补充；补充物；增刊，副刊\n
-                             例句： I use cloth napkins and cleaning cloths entirely, and I supplement with paper.\n
+            1. shake off ：\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;摆脱；抖落\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;例句：His companionship made it possible for me to shake off my shrinking sensitiveness.\n
+            2.  nootropics ：\n
+           &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; n. 益智药；亲精神性\n
+           &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; 短语：Nootropics  Neurotonics 神经营养剂\n
+            3.  supplement ：\n
+           &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; vt. 增补，补充\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;n. 增补，补充；补充物；增刊，副刊\n
+           &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; 例句： I use cloth napkins and cleaning cloths entirely, and I supplement with paper.\n
         </item>
         <item>
-             1.reef	：n. 暗礁；[地质] 矿脉；收帆\n
-                        vt. 收帆；缩帆\n
-                        vi. 缩帆；收帆\n
-                        短语：great barrier reef 大堡礁\n
-             2.drum ：vt. 击鼓；大力争取\n
-                        vi. 击鼓；大力争取\n
-                        n. 鼓；鼓声\n
-                         例句：The war drum is beating.\n
+             1.reef	：\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;n. 暗礁；[地质] 矿脉；收帆\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;vt. 收帆；缩帆\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;vi. 缩帆；收帆\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;短语：great barrier reef 大堡礁\n
+             2.drum ：\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;vt. 击鼓；大力争取\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;vi. 击鼓；大力争取\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;n. 鼓；鼓声\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;例句：The war drum is beating.\n
         </item>
         <item>
-            1.  disrupt： vt. 破坏；使瓦解；使分裂；使中断；使陷于混乱\n
-                          adj. 分裂的，中断的；分散的\n
-                          短语：disrupt market  扰乱市场\n
-            2.  forestall：vt. 先发制人，预先阻止；垄断，屯积；领先；占先一步\n
-                          短语：Without Forestall  没有垄断\n
+            1.  disrupt：\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;vt. 破坏；使瓦解；使分裂；使中断；使陷于混乱\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;adj. 分裂的，中断的；分散的\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;短语：disrupt market  扰乱市场\n
+            2.  forestall：\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;vt. 先发制人，预先阻止；垄断，屯积；领先；占先一步\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;短语：Without Forestall  没有垄断\n
 
         </item>
         <item>
-             1.pearl：n. 珍珠；珍珠色；杰出者；珍品\n
-                      adj. 镶珍珠的；珍珠状的\n
-                      vt. 使成珠状；用珍珠装饰；使呈珍珠色\n
-                      短语：Pearl Jam珍珠果酱\n
-             2.  velvet：n. 天鹅绒，丝绒；天鹅绒似的东西\n
-                      adj. 天鹅绒的\n
-                      例句：This material feels like velvet.\n
+             1.pearl：\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;n. 珍珠；珍珠色；杰出者；珍品\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;adj. 镶珍珠的；珍珠状的\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;vt. 使成珠状；用珍珠装饰；使呈珍珠色\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;短语：Pearl Jam珍珠果酱\n
+             2.  velvet：\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;n. 天鹅绒，丝绒；天鹅绒似的东西\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;adj. 天鹅绒的\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;例句：This material feels like velvet.\n
         </item>
         <item>
-            1.  gamification：n. 游戏化\n
-                              短语：Gamification Design  游戏化设计\n
-            2.  buzzword：n. 流行词\n
-                              短语：buzzword jargon  专门术语\n
-            3.  incentive：n. 动机；刺激\n
-                            adj. 激励的；刺激的\n
-                            例句：If they have a direct incentive to do so they will think about it.\n
+            1.  gamification：\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;n. 游戏化\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;短语：Gamification Design  游戏化设计\n
+            2.  buzzword：\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;n. 流行词\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;短语：buzzword jargon  专门术语\n
+            3.  incentive：\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;n. 动机；刺激\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;adj. 激励的；刺激的\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;例句：If they have a direct incentive to do so they will think about it.\n
 
         </item>
         <item>
-            1.Innovation：n. 创新，革新；新方法\n
-                            短语：Technology Innovation  技术创新 ; 科技创新 ; \n
-            2.  Entrepreneurship：n. 企业家精神\n
-                         短语：entrepreneurship education  创业教育 \n
-            3.corporate：adj. 法人的；共同的，全体的；社团的；公司的；企业的\n
-                         例句：herefore, Business and IT should form a corporate strategy together.\n
+            1.Innovation：\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;n. 创新，革新；新方法\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;短语：Technology Innovation  技术创新 ; 科技创新 ; \n
+            2.  Entrepreneurship：\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;n. 企业家精神\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;短语：entrepreneurship education  创业教育 \n
+            3.corporate：\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;adj. 法人的；共同的，全体的；社团的；公司的；企业的\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;例句：herefore, Business and IT should form a corporate strategy together.\n
         </item>
         <item>
-            1.  trick：n. 诡计；恶作剧；窍门；花招；骗局；欺诈 \n
-                       vt. 欺骗；哄骗；装饰；打扮\n
-                       adj. 特技的；欺诈的；有决窍的\n
-                       例句：Your trick won\'t be slipped over me.\n
-            2.  subsequently：adv. 随后，其后；后来\n
-                       短语：subsequently to  在…之后，继…之后\n
+            1.  trick：\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;n. 诡计；恶作剧；窍门；花招；骗局；欺诈 \n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;vt. 欺骗；哄骗；装饰；打扮\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;adj. 特技的；欺诈的；有决窍的\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;例句：Your trick won\'t be slipped over me.\n
+            2.  subsequently：\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;adv. 随后，其后；后来\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;短语：subsequently to  在…之后，继…之后\n
 
         </item>
+
+        <item>
+            1.tentative： \n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;n. 假设，试验\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;adj. 试验性的，暂定的；踌躇的\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;短语：tentative data 试验数据；推测数据\n
+            2.masterpiece：\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;n. 杰作；绝无仅有的人\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;例句：Like the city itself, Guyton\'s masterpiece, the Heidelberg Project, has seen its share of adversity.\n
+
+        </item>
+
+        <item>
+            1. mush：\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;n. 感伤的话；浓粥；软块；胆怯\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;vt. 粉碎\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;例句：Softer fruits such as peaches and mangos need closer watching or they can turn to\n
+            2. alert：\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;n. 警戒，警惕；警报\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;adj. 警惕的，警觉的；留心的\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;vt. 警告；使警觉，使意识到\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;短语：alert someone to sth使...警觉；使...警惕\n
+            3. elude：\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;vt. 逃避，躲避\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;短语：elude observation 避人耳目\n
+        </item>
+
+        <item>
+            1. detachment：\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;n. 分离，拆开；超然；分遣；分遣队\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;例句：But Obama has a certain emotional detachment that has turned off many of them.\n
+            2. hypocrisy：n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;n. 虚伪；伪善\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;例句：This is yet another example of Western hypocrisy.\n
+            3. cowardice：\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;n. 怯懦；胆小\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;例句：Not to face up to failure in a job is cowardice rather than compassion.\n
+            4. lustre：\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;n. 光泽，光彩\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;vt. 使有光泽\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;例句：The sun was shining with uncommon lustre.\n
+        </item>
+
+        <item>
+            1. endure：\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;vt. 忍耐；容忍\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;vi. 忍耐；持续\n
+            2. endeavor：\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;n. 努力；尽力\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;vt. 努力；尽力\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;例句：We cannot succeed in this endeavor alone, but we can lead it, we can start it.\n
+        </item>
+
+        <item>
+            1. immune：\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;adj. 免疫的；免于……的，免除的\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;n. 免疫者；免除者\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;短语：immune system免疫系统\n
+            2. exerts：\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;vt. 运用，发挥；施以影响\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;短语：exert an influence on对……产生影响\n
+        </item>
+
+        <item>
+            1. enormous：\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;adj. 庞大的，巨大的；凶暴的，极恶的\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;例句：In this case, however, the costs could be enormous.\n
+            2. pedal：\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;n. 踏板；脚蹬子\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;vt. 骑（自行车）；踩……的踏板\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;短语：brake pedal刹车踏板；制动踏板\n
+            3. groom：\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;vt. 整饰；推荐；喂马；刷洗（马等）\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;n. 新郎；马夫；男仆\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;短语：bride and groom新娘和新郎\n
+        </item>
+
+        <item>
+            1. disintegrate:\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;vt. 使分解；使碎裂；使崩溃；使衰变\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;vi. 瓦解；碎裂；衰变\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;例句：During the three and a half months of his trial, he seemed to disintegrate. \n
+            2. discerned: \n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;vt. 识别；领悟，认识\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;vi. 看清楚，辨别\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;例句：The note is too crumpled, in short, for its true value to be discerned.\n
+        </item>
+
+        <item>
+            1. introvert : vt. 使内向；使内倾；使内弯\n
+            n. 内向的人；内翻的东西\n
+            2. intuitive : adj. 直觉的；凭直觉获知的\n
+            短语：intuitive knowledge n. 良知；直觉的知识，直观知识\n
+        </item>
+
+        <item>
+            1. pattern：\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;n. 模式；图案；样品\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;vt. 模仿；以图案装饰\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;短语：pattern recognition 模式识别\n
+            2. perform：\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;vt. 执行；完成；演奏\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;vi. 执行，机器运转；表演\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;短语：opportunity to perform实践的机会；表现机会\n
+        </item>
+
+        <item>
+            arrangement：\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;n. 布置；整理；准备\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;短语：institutional arrangement制度安排；制序安排；机构安排\n
+        </item>
+
+        <item>
+            grant：\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;vt. 授予；允许；承认\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;vi. 同意\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;n. 拨款；[法] 授予物\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;短语：take for granted 认为…理所当然\n
+        </item>
+
+        <item>
+            1.underneath：\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;prep. 在…的下面；在…的形式下；在…的支配下\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;adv. 在下面；在底下\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;n. 下面；底部\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;例句：She ran a straight line underneath the sentence which she thought important.\n
+            2.authentic：\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;adj. 真正的，真实的；可信的\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;例句：Hard to be so open and authentic, but it is both tough-minded and kind to do so.\n
+            3.insulate：\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;vt. 隔离，使孤立；使绝缘，使隔热\n
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;例句：He says the windows will insulate almost as well as the walls they are connected to.\n
+        </item>
+
+
     </string-array>
     <string-array name="fan_yi">
         <item>
@@ -285,8 +875,50 @@ It may be difficult to trick yourself into believing your nerves are from caffei
         <item>
             他们需要的是努力不让自己胡思乱想，这样他们就可以真正地用上自己已经拥有的社交技巧去建立友谊、走出孤独
         </item>
+        <item>
+            或许在你试探性地写上几个字后它就会枯干，或许足够用来创作一部影响深远的不朽巨著(或是几部)。
+        </item>
+        <item>
+            那个想法可能就是你渴望已久的潜在的成功起点。
+        </item>
+        <item>
+            金子的光泽，未必是世界上最动人的光泽。
+        </item>
+        <item>
+            不是每一次努力都会硕果累累，也不是每一个梦想都能够实现。
+        </item>
+        <item>
+            无论我们多么用力辩驳，或假装对它免疫，美仍然对我们产生影响。根本无法逃避。
+        </item>
+        <item>
+            从未尝试改善环境的人通常会对所产生的显著效果感到惊奇不已。
+        </item>
+        <item>
+            它在我们迷失时给予指引，在我们恐惧时给予支持。 
+        </item>
+        <item>
+            他们健谈和有意思,但深奥的思想家喜欢独处。
+        </item>
+        <item>
+            它影响着我们的思维模式、说话方式、行为方式以及生活的各方面的决定——事业、金钱、人际关系，甚至我们 的健康。
+        </item>
+        <item>
+            就在起程时，他收到一封电报–父亲已逝世，并已立下遗嘱将其所有财产转给儿子。
+        </item>
+        <item>
+            最要感谢的是我不必再等下一个日出，因为无论我想何时看到它，我都可以看向她，它总会出现在她的双眸里；她永远为我留着。
+        </item>
+        <item>
+            如果我们能用心灵去认识彼此，世间不会有结怨成仇的憾事；恨意、妒嫉、恐惧也会不复存在。
+        </item>
     </string-array>
+    <!-- **************************** 段落阅读 end ***************************** -->
 
+
+
+
+
+    <!-- **************************** 名言名句 start ***************************** -->
     <string-array name="mymj_content">
         <item>
             Readers are plentiful. Thinkers are rare.$阅读的人很多，但思考的人很少。
@@ -312,6 +944,45 @@ It may be difficult to trick yourself into believing your nerves are from caffei
         <item>
             The only limits in our life are those we impose on ourselves.$生活中的唯一限制是我们加诸在自己身上的。
         </item>
+        <item>
+            A good beginning is half done.$良好的开端是成功的一半。
+        </item>
+        <item>
+            Don’t put off till tomorrow what should be done today.$今日事，今日毕。
+        </item>
+        <item>
+            He who does not advance loses ground.$逆水行舟，不进则退。
+        </item>
+        <item>
+            Every man is the architect of his own fortune.$自己的命运自己掌握。
+        </item>
+        <item>
+            Knowledge starts with practice.$实践出真知。
+        </item>
+        <item>
+            It is never too old to learn.$活到老，学到老。
+        </item>
+        <item>
+            Adversity makes a man wise,not rich.$逆境出人才。
+        </item>
+        <item>
+            Learn and live.$活着，为了学习。
+        </item>
+        <item>
+            A man becomes learned by asking questions.$不耻下问才能有学问。
+        </item>
+        <item>
+            Industry is the parent of success.$勤奋是成功之母。
+        </item>
+        <item>
+            Constant dripping wears away a stone.$水滴石穿，绳锯木断。
+        </item>
+        <item>
+            Great hopes make great man.$伟大的抱负造就伟大的人物。
+        </item>
 
     </string-array>
+
+    <!-- **************************** 名言名句 end ***************************** -->
+    
 </resources>

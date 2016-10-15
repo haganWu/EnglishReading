@@ -115,11 +115,13 @@ public class TextContentActivity extends FragmentActivity implements ViewPager.O
                 tv_dlyd.setSelected(true);
                 tv_wzxs.setSelected(false);
                 tv_mymj.setSelected(false);
+                wzxsFragment.stopReadSound();
                 break;
             case 2:
                 tv_mymj.setSelected(true);
                 tv_dlyd.setSelected(false);
                 tv_wzxs.setSelected(false);
+                wzxsFragment.stopReadSound();
                 break;
         }
     }

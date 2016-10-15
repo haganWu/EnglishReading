@@ -61,13 +61,13 @@ public class LevelContentActivity extends Activity {
         int endCount = 0;
         if(position == 0){
             startCount = 1;
-            endCount = 2;
+            endCount = 5;
         }else if(position == 1){
-            startCount = 3;
-            endCount = 6;
+            startCount = 6;
+            endCount = 15;
         }else if(position == 2){
-            startCount = 7;
-            endCount = 8;
+            startCount = 16;
+            endCount = 20;
         }
         for (int i = startCount; i <= endCount; i++) {
             datas.add("Text " + i);

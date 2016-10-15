@@ -9,9 +9,53 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:gravity="center"
         android:textSize="@dimen/text_size_big"
-        android:layout_centerInParent="true"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        android:textColor="@android:color/black"
+        android:layout_marginTop="30dp"
         android:text="@string/user_center_fragment_text"/>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_centerInParent="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+
+        <TextView
+            android:id="@+id/tv_my_study_log"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:textSize="@dimen/text_size_big"
+            android:layout_centerHorizontal="true"
+            android:layout_alignParentTop="true"
+            android:textColor="@android:color/black"
+            android:text="@string/user_center_my_log"/>
+        <TextView
+            android:id="@+id/tv_study_cj"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:textSize="@dimen/text_size_big"
+            android:layout_centerHorizontal="true"
+            android:layout_alignParentTop="true"
+            android:textColor="@android:color/black"
+            android:layout_marginTop="6dp"
+            android:text="@string/user_center_study_cj"/>
+        <TextView
+            android:id="@+id/tv_task_center"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:textSize="@dimen/text_size_big"
+            android:layout_centerHorizontal="true"
+            android:layout_alignParentTop="true"
+            android:textColor="@android:color/black"
+            android:layout_marginTop="6dp"
+            android:text="@string/user_center_task_center"/>
+
+    </LinearLayout>
 
 </RelativeLayout>

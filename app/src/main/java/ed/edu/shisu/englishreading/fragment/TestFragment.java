@@ -6,6 +6,7 @@ import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.Toast;
 
 import ed.edu.shisu.englishreading.R;
 
@@ -13,7 +14,7 @@ import ed.edu.shisu.englishreading.R;
  * Created by haganwu on 16/8/21.
  */
 
-public class TestFragment extends Fragment {
+public class TestFragment extends Fragment implements View.OnClickListener {
 
     View view;
     @Nullable
@@ -22,6 +23,17 @@ public class TestFragment extends Fragment {
         if(view == null){
             view = inflater.inflate(R.layout.fg_test,null);
         }
+        initView();
         return view;
+    }
+
+    private void initView() {
+        view.findViewById(R.id.tv_section_a).setOnClickListener(this);
+        view.findViewById(R.id.tv_section_b).setOnClickListener(this);
+    }
+
+    @Override
+    public void onClick(View v) {
+        Toast.makeText(getContext(),getResources().getString(R.string.please_hope2),Toast.LENGTH_SHORT).show();
     }
 }

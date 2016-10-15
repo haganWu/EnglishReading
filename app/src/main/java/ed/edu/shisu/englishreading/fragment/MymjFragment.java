@@ -56,6 +56,18 @@ public class MymjFragment extends Fragment {
         pics.add(R.mipmap.pic6);
         pics.add(R.mipmap.pic7);
         pics.add(R.mipmap.pic8);
+        pics.add(R.mipmap.pic9);
+        pics.add(R.mipmap.pic10);
+        pics.add(R.mipmap.pic11);
+        pics.add(R.mipmap.pic12);
+        pics.add(R.mipmap.pic13);
+        pics.add(R.mipmap.pic14);
+        pics.add(R.mipmap.pic15);
+        pics.add(R.mipmap.pic16);
+        pics.add(R.mipmap.pic17);
+        pics.add(R.mipmap.pic18);
+        pics.add(R.mipmap.pic19);
+        pics.add(R.mipmap.pic20);
     }
 
     private void initView() {

@@ -7,11 +7,22 @@
 
     <!-- TODO: Update blank fragment layout -->
     <TextView
+        android:id="@+id/tv_home"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:gravity="center"
         android:textSize="@dimen/text_size_big"
         android:layout_centerInParent="true"
         android:text="@string/main_fragment_text"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_below="@id/tv_home"
+        android:textSize="@dimen/text_size_small"
+        android:layout_marginTop="12dp"
+        android:layout_centerInParent="true"
+        android:text="@string/please_hope"/>
 
 </RelativeLayout>
