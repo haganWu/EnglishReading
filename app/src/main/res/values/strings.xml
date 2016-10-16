@@ -2,7 +2,7 @@
     <string name="app_name">ER</string>
 
     <!-- TODO: Remove or change this placeholder text -->
-    <string name="main_fragment_text">首页</string>
+    <string name="main_fragment_text">欢迎开启阅读之旅</string>
     <string name="test_fragment_text">测试</string>
     <string name="user_center_fragment_text">个人中心</string>
     <string name="learn_fragment_text">学习</string>
