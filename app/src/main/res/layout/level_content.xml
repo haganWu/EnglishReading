@@ -14,15 +14,16 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:gravity="center"
+        android:textColor="@android:color/black"
         android:textSize="@dimen/text_size_big"
-        android:layout_marginTop="36dp"
+        android:layout_marginTop="8dp"
         android:text="@string/learn_fragment_title"/>
 
     <ListView
         android:id="@+id/lv_level_content"
         android:layout_width="match_parent"
         android:layout_below="@id/tv_level_content_title"
-        android:layout_marginTop="50dp"
+        android:layout_marginTop="8dp"
         android:layout_centerInParent="true"
         android:listSelector="#00000000"
         android:dividerHeight="0dp"
