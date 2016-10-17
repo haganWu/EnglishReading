@@ -25,6 +25,7 @@ public class LevelContentActivity extends Activity {
     private TextView tv_level_content_title;
     private ListView lv_level_content;
     private List<String> datas = new ArrayList<String>();
+    private List<String> toNextDatas = new ArrayList<String>();
     private TextView tv_title_back;
     private int position;
     @Override
@@ -49,7 +50,7 @@ public class LevelContentActivity extends Activity {
             @Override
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
                 Intent intent = new Intent(LevelContentActivity.this,TextContentActivity.class);
-                intent.putExtra("textTitle",datas.get(position));
+                intent.putExtra("textTitle",toNextDatas.get(position));
                 intent.putExtra("textPosition",position);
                 startActivity(intent);
             }
@@ -69,8 +70,10 @@ public class LevelContentActivity extends Activity {
             startCount = 16;
             endCount = 20;
         }
+       String[] titles =  getResources().getStringArray(R.array.wzyd_title);
         for (int i = startCount; i <= endCount; i++) {
-            datas.add("Text " + i);
+            datas.add("Text " + i + "    "+ titles[i-1]);
+            toNextDatas.add("Text " + i);
         }
     }
 

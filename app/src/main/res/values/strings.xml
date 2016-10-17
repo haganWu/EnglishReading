@@ -18,4 +18,7 @@
     <string name="section_b">Section B 阅读理解</string>
     <string name="please_hope">(敬请期待...)</string>
     <string name="please_hope2">敬请期待...</string>
+    <string name="u1">U1 初级篇</string>
+    <string name="u2">U2 中级篇</string>
+    <string name="u3">U3 高级篇</string>
 </resources>

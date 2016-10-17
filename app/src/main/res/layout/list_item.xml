@@ -8,9 +8,9 @@
         android:textSize="@dimen/text_size_normal"
         android:layout_width="match_parent"
         android:text="U1 初级篇"
-        android:padding="6dp"
+        android:padding="12dp"
         android:textColor="@android:color/black"
-        android:gravity="center"
+        android:gravity="left|center_vertical"
         android:layout_height="wrap_content"/>
 
 </LinearLayout>
